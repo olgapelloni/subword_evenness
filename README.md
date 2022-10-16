@@ -7,19 +7,13 @@ Olga Pelloni, Anastassia Shaitarova and Tanja Samardzic (2022). Subword Evenness
 
 ## Data
 
-Data comes from the TeDDi Sample (link) corpus. We create 1M tokens balanced datasets for 19 training languages and 200K tokens datasets for 30 test languages.
+Data comes from the [TeDDi Sample corpus](https://github.com/MorphDiv/TeDDi_sample). We create 1M tokens balanced datasets for 19 training languages and 200K tokens datasets for 30 test languages.
 
-Links:
-- Train dataset
-- Valid dataset
-- Test dataset
+Links to our datasets:
+- [Train dataset](https://drive.switch.ch/index.php/s/rPCEnAHyTrXVAY1)
+- [Valid dataset](https://drive.switch.ch/index.php/s/Lau2Y4vGgds8wtu)
+- [Test dataset](https://drive.switch.ch/index.php/s/8HVSN2d2KIwffDR)
 
 ## Scripts
 
-Most of the scripts are done by me and Anastassia Shaitarova. Scripts for continuous training/fine-tuning are taken and adapted from HuggingFace. Script for measuring TTR and unigram entropy comes from Ximena Gutierrez.
-
-## Results
-
-Link:
-- Files segmented by BPE (minimum redundancy approach)
-- Tables with UI measured on each word
+Most of the scripts are done by [Anastassia Shaitarova](https://github.com/shaitarAn) and me. Scripts for continuous training/fine-tuning are taken and adapted from [HuggingFace](https://github.com/huggingface). Scripts for measuring TTR and unigram entropy come from [Ximena Gutierrez](https://github.com/ximenina).
