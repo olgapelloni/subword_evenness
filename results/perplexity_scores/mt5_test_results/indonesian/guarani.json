@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.49046099185943604, "eval_lang": "guarani", "eval_loss": 3.2346200942993164, "eval_model": "../mt5_models/indonesian/1"}
+{"eval_accuracy": 0.48766863346099854, "eval_lang": "guarani", "eval_loss": 3.3002254962921143, "eval_model": "../mt5_models/indonesian/2"}
+{"eval_accuracy": 0.4682908356189728, "eval_lang": "guarani", "eval_loss": 3.4237239360809326, "eval_model": "../mt5_models/indonesian/3"}
+{"eval_accuracy": 0.4929347634315491, "eval_lang": "guarani", "eval_loss": 3.266876220703125, "eval_model": "../mt5_models/indonesian/4"}
+{"eval_accuracy": 0.5009744763374329, "eval_lang": "guarani", "eval_loss": 3.2056469917297363, "eval_model": "../mt5_models/indonesian/5"}

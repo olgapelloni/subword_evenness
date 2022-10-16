@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.46004992723464966, "eval_lang": "arapesh_mountain", "eval_loss": 3.589852809906006, "eval_model": "../mt5_models/vietnamese/1"}
+{"eval_accuracy": 0.4534482955932617, "eval_lang": "arapesh_mountain", "eval_loss": 3.706301212310791, "eval_model": "../mt5_models/vietnamese/2"}
+{"eval_accuracy": 0.4833938777446747, "eval_lang": "arapesh_mountain", "eval_loss": 3.539806604385376, "eval_model": "../mt5_models/vietnamese/3"}
+{"eval_accuracy": 0.47130218148231506, "eval_lang": "arapesh_mountain", "eval_loss": 3.5913634300231934, "eval_model": "../mt5_models/vietnamese/4"}
+{"eval_accuracy": 0.48486843705177307, "eval_lang": "arapesh_mountain", "eval_loss": 3.559607982635498, "eval_model": "../mt5_models/vietnamese/5"}

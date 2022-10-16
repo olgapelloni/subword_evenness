@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.46388140320777893, "eval_lang": "chamorro", "eval_loss": 3.6060914993286133, "eval_model": "../mt5_models/english/1"}
+{"eval_accuracy": 0.45349499583244324, "eval_lang": "chamorro", "eval_loss": 3.6826303005218506, "eval_model": "../mt5_models/english/2"}
+{"eval_accuracy": 0.46035000681877136, "eval_lang": "chamorro", "eval_loss": 3.634390354156494, "eval_model": "../mt5_models/english/3"}
+{"eval_accuracy": 0.4685812294483185, "eval_lang": "chamorro", "eval_loss": 3.597280979156494, "eval_model": "../mt5_models/english/4"}
+{"eval_accuracy": 0.4669453203678131, "eval_lang": "chamorro", "eval_loss": 3.612154483795166, "eval_model": "../mt5_models/english/5"}

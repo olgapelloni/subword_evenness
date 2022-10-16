@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5155920386314392, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6442830562591553, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.5155479907989502, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6410446166992188, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.5237948894500732, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.659674882888794, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.5239707827568054, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6434967517852783, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.5101600885391235, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6920368671417236, "eval_model": "../mt5_models/greek_modern/5"}

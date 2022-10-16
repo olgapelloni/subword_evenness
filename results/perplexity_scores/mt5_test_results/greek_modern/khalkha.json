@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.46948617696762085, "eval_lang": "khalkha", "eval_loss": 3.2967753410339355, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.4641302525997162, "eval_lang": "khalkha", "eval_loss": 3.350090742111206, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.4778507947921753, "eval_lang": "khalkha", "eval_loss": 3.2877438068389893, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.4770399332046509, "eval_lang": "khalkha", "eval_loss": 3.2774035930633545, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.46214574575424194, "eval_lang": "khalkha", "eval_loss": 3.378817319869995, "eval_model": "../mt5_models/greek_modern/5"}

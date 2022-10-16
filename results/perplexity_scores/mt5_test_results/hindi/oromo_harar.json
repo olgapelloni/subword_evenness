@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4844067394733429, "eval_lang": "oromo_harar", "eval_loss": 3.2250421047210693, "eval_model": "../mt5_models/hindi/1"}
+{"eval_accuracy": 0.4906609356403351, "eval_lang": "oromo_harar", "eval_loss": 3.173764705657959, "eval_model": "../mt5_models/hindi/2"}
+{"eval_accuracy": 0.481004923582077, "eval_lang": "oromo_harar", "eval_loss": 3.189316749572754, "eval_model": "../mt5_models/hindi/3"}
+{"eval_accuracy": 0.4916539788246155, "eval_lang": "oromo_harar", "eval_loss": 3.1658589839935303, "eval_model": "../mt5_models/hindi/4"}
+{"eval_accuracy": 0.47375762462615967, "eval_lang": "oromo_harar", "eval_loss": 3.255283832550049, "eval_model": "../mt5_models/hindi/5"}

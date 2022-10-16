@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4762250483036041, "eval_lang": "arapesh_mountain", "eval_loss": 3.494058847427368, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.47497737407684326, "eval_lang": "arapesh_mountain", "eval_loss": 3.481973648071289, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.4890199899673462, "eval_lang": "arapesh_mountain", "eval_loss": 3.44728946685791, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.4854809641838074, "eval_lang": "arapesh_mountain", "eval_loss": 3.4491796493530273, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.47590744495391846, "eval_lang": "arapesh_mountain", "eval_loss": 3.4947192668914795, "eval_model": "../mt5_models/greek_modern/5"}

@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5239267945289612, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6330060958862305, "eval_model": "../mt5_models/indonesian/1"}
+{"eval_accuracy": 0.5157239437103271, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.726806640625, "eval_model": "../mt5_models/indonesian/2"}
+{"eval_accuracy": 0.5009676218032837, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.789426803588867, "eval_model": "../mt5_models/indonesian/3"}
+{"eval_accuracy": 0.5258840322494507, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.671083450317383, "eval_model": "../mt5_models/indonesian/4"}
+{"eval_accuracy": 0.5284350514411926, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.6529135704040527, "eval_model": "../mt5_models/indonesian/5"}

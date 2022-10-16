@@ -1,0 +1,4 @@
+{"eval_accuracy": 0.4847687780857086, "eval_lang": "khoekhoe", "eval_loss": 3.076504707336426, "eval_model": "../mt5_models/persian/1"}
+{"eval_accuracy": 0.4719620645046234, "eval_lang": "khoekhoe", "eval_loss": 3.1892316341400146, "eval_model": "../mt5_models/persian/2"}
+{"eval_accuracy": 0.48190903663635254, "eval_lang": "khoekhoe", "eval_loss": 3.073917865753174, "eval_model": "../mt5_models/persian/3"}
+{"eval_accuracy": 0.46591100096702576, "eval_lang": "khoekhoe", "eval_loss": 3.1764161586761475, "eval_model": "../mt5_models/persian/5"}

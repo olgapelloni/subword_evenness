@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5137194991111755, "eval_lang": "sanuma", "eval_loss": 2.9107162952423096, "eval_model": "../mt5_models/hebrew_modern/1"}
+{"eval_accuracy": 0.557532548904419, "eval_lang": "sanuma", "eval_loss": 2.657412528991699, "eval_model": "../mt5_models/hebrew_modern/2"}
+{"eval_accuracy": 0.5650231242179871, "eval_lang": "sanuma", "eval_loss": 2.6361818313598633, "eval_model": "../mt5_models/hebrew_modern/3"}
+{"eval_accuracy": 0.5227606892585754, "eval_lang": "sanuma", "eval_loss": 2.8457047939300537, "eval_model": "../mt5_models/hebrew_modern/4"}
+{"eval_accuracy": 0.5380571484565735, "eval_lang": "sanuma", "eval_loss": 2.7355008125305176, "eval_model": "../mt5_models/hebrew_modern/5"}

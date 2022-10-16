@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4744555652141571, "eval_lang": "arapesh_mountain", "eval_loss": 3.7431416511535645, "eval_model": "../mt5_models/hindi/1"}
+{"eval_accuracy": 0.47815337777137756, "eval_lang": "arapesh_mountain", "eval_loss": 3.6766207218170166, "eval_model": "../mt5_models/hindi/2"}
+{"eval_accuracy": 0.47257259488105774, "eval_lang": "arapesh_mountain", "eval_loss": 3.684812068939209, "eval_model": "../mt5_models/hindi/3"}
+{"eval_accuracy": 0.4791288375854492, "eval_lang": "arapesh_mountain", "eval_loss": 3.659688711166382, "eval_model": "../mt5_models/hindi/4"}
+{"eval_accuracy": 0.46404269337654114, "eval_lang": "arapesh_mountain", "eval_loss": 3.771585702896118, "eval_model": "../mt5_models/hindi/5"}

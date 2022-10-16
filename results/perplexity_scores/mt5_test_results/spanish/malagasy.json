@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.6403467059135437, "eval_lang": "malagasy", "eval_loss": 1.8409502506256104, "eval_model": "../mt5_models/spanish/1"}
+{"eval_accuracy": 0.6433544754981995, "eval_lang": "malagasy", "eval_loss": 1.8100560903549194, "eval_model": "../mt5_models/spanish/2"}
+{"eval_accuracy": 0.6341654062271118, "eval_lang": "malagasy", "eval_loss": 1.8554757833480835, "eval_model": "../mt5_models/spanish/3"}
+{"eval_accuracy": 0.648493766784668, "eval_lang": "malagasy", "eval_loss": 1.797746181488037, "eval_model": "../mt5_models/spanish/4"}
+{"eval_accuracy": 0.6467175483703613, "eval_lang": "malagasy", "eval_loss": 1.8041115999221802, "eval_model": "../mt5_models/spanish/5"}

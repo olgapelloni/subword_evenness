@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.465837299823761, "eval_lang": "khalkha", "eval_loss": 3.377040147781372, "eval_model": "../mt5_models/indonesian/1"}
+{"eval_accuracy": 0.46417292952537537, "eval_lang": "khalkha", "eval_loss": 3.4103357791900635, "eval_model": "../mt5_models/indonesian/2"}
+{"eval_accuracy": 0.4357715845108032, "eval_lang": "khalkha", "eval_loss": 3.6008999347686768, "eval_model": "../mt5_models/indonesian/3"}
+{"eval_accuracy": 0.4684832692146301, "eval_lang": "khalkha", "eval_loss": 3.391122341156006, "eval_model": "../mt5_models/indonesian/4"}
+{"eval_accuracy": 0.477189302444458, "eval_lang": "khalkha", "eval_loss": 3.322275161743164, "eval_model": "../mt5_models/indonesian/5"}

@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.44163966178894043, "eval_lang": "khalkha", "eval_loss": 3.497548818588257, "eval_model": "../mt5_models/vietnamese/1"}
+{"eval_accuracy": 0.43758535385131836, "eval_lang": "khalkha", "eval_loss": 3.5932230949401855, "eval_model": "../mt5_models/vietnamese/2"}
+{"eval_accuracy": 0.46850457787513733, "eval_lang": "khalkha", "eval_loss": 3.3846797943115234, "eval_model": "../mt5_models/vietnamese/3"}
+{"eval_accuracy": 0.45536017417907715, "eval_lang": "khalkha", "eval_loss": 3.456106185913086, "eval_model": "../mt5_models/vietnamese/4"}
+{"eval_accuracy": 0.4715559780597687, "eval_lang": "khalkha", "eval_loss": 3.396754503250122, "eval_model": "../mt5_models/vietnamese/5"}

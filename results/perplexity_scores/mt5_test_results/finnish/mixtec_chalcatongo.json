@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.49459004402160645, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.8193278312683105, "eval_model": "../mt5_models/finnish/1"}
+{"eval_accuracy": 0.5020232200622559, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7518222332000732, "eval_model": "../mt5_models/finnish/2"}
+{"eval_accuracy": 0.484627902507782, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.798233985900879, "eval_model": "../mt5_models/finnish/3"}
+{"eval_accuracy": 0.5007257461547852, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7707836627960205, "eval_model": "../mt5_models/finnish/4"}
+{"eval_accuracy": 0.5066854357719421, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7020699977874756, "eval_model": "../mt5_models/finnish/5"}

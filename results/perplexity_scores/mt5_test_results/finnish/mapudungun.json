@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4621788263320923, "eval_lang": "mapudungun", "eval_loss": 3.665954828262329, "eval_model": "../mt5_models/finnish/1"}
+{"eval_accuracy": 0.46186187863349915, "eval_lang": "mapudungun", "eval_loss": 3.678098440170288, "eval_model": "../mt5_models/finnish/2"}
+{"eval_accuracy": 0.44109195470809937, "eval_lang": "mapudungun", "eval_loss": 3.752683639526367, "eval_model": "../mt5_models/finnish/3"}
+{"eval_accuracy": 0.45810094475746155, "eval_lang": "mapudungun", "eval_loss": 3.675962209701538, "eval_model": "../mt5_models/finnish/4"}
+{"eval_accuracy": 0.4667639136314392, "eval_lang": "mapudungun", "eval_loss": 3.6160390377044678, "eval_model": "../mt5_models/finnish/5"}

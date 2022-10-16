@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.479716032743454, "eval_lang": "oromo_harar", "eval_loss": 3.135913372039795, "eval_model": "../mt5_models/finnish/1"}
+{"eval_accuracy": 0.47485634684562683, "eval_lang": "oromo_harar", "eval_loss": 3.148521900177002, "eval_model": "../mt5_models/finnish/2"}
+{"eval_accuracy": 0.4558189809322357, "eval_lang": "oromo_harar", "eval_loss": 3.21524715423584, "eval_model": "../mt5_models/finnish/3"}
+{"eval_accuracy": 0.4720461666584015, "eval_lang": "oromo_harar", "eval_loss": 3.165717124938965, "eval_model": "../mt5_models/finnish/4"}
+{"eval_accuracy": 0.4796315133571625, "eval_lang": "oromo_harar", "eval_loss": 3.0875003337860107, "eval_model": "../mt5_models/finnish/5"}

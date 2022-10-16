@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4752384126186371, "eval_lang": "jakaltek", "eval_loss": 3.5283777713775635, "eval_model": "../mt5_models/vietnamese/1"}
+{"eval_accuracy": 0.47853997349739075, "eval_lang": "jakaltek", "eval_loss": 3.577669620513916, "eval_model": "../mt5_models/vietnamese/2"}
+{"eval_accuracy": 0.5072908997535706, "eval_lang": "jakaltek", "eval_loss": 3.4284121990203857, "eval_model": "../mt5_models/vietnamese/3"}
+{"eval_accuracy": 0.49406179785728455, "eval_lang": "jakaltek", "eval_loss": 3.478201150894165, "eval_model": "../mt5_models/vietnamese/4"}
+{"eval_accuracy": 0.5111656188964844, "eval_lang": "jakaltek", "eval_loss": 3.425222635269165, "eval_model": "../mt5_models/vietnamese/5"}

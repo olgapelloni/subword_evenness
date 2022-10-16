@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5057343244552612, "eval_lang": "wichi", "eval_loss": 3.209080696105957, "eval_model": "../mt5_models/vietnamese/1"}
+{"eval_accuracy": 0.5028671622276306, "eval_lang": "wichi", "eval_loss": 3.2850730419158936, "eval_model": "../mt5_models/vietnamese/2"}
+{"eval_accuracy": 0.5329241156578064, "eval_lang": "wichi", "eval_loss": 3.140929698944092, "eval_model": "../mt5_models/vietnamese/3"}
+{"eval_accuracy": 0.5222444534301758, "eval_lang": "wichi", "eval_loss": 3.174421548843384, "eval_model": "../mt5_models/vietnamese/4"}
+{"eval_accuracy": 0.5348291397094727, "eval_lang": "wichi", "eval_loss": 3.154790163040161, "eval_model": "../mt5_models/vietnamese/5"}

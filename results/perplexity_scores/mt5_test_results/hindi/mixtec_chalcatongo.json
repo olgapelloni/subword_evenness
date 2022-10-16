@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5050800442695618, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.853729248046875, "eval_model": "../mt5_models/hindi/1"}
+{"eval_accuracy": 0.5113915801048279, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7854089736938477, "eval_model": "../mt5_models/hindi/2"}
+{"eval_accuracy": 0.5041344165802002, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.8226735591888428, "eval_model": "../mt5_models/hindi/3"}
+{"eval_accuracy": 0.5094123482704163, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7936837673187256, "eval_model": "../mt5_models/hindi/4"}
+{"eval_accuracy": 0.4847158193588257, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.913546085357666, "eval_model": "../mt5_models/hindi/5"}

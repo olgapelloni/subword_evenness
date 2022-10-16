@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.47223231196403503, "eval_lang": "arapesh_mountain", "eval_loss": 3.584162473678589, "eval_model": "../mt5_models/finnish/1"}
+{"eval_accuracy": 0.4707123935222626, "eval_lang": "arapesh_mountain", "eval_loss": 3.5853922367095947, "eval_model": "../mt5_models/finnish/2"}
+{"eval_accuracy": 0.4547414183616638, "eval_lang": "arapesh_mountain", "eval_loss": 3.656599760055542, "eval_model": "../mt5_models/finnish/3"}
+{"eval_accuracy": 0.46828493475914, "eval_lang": "arapesh_mountain", "eval_loss": 3.603626012802124, "eval_model": "../mt5_models/finnish/4"}
+{"eval_accuracy": 0.47422873973846436, "eval_lang": "arapesh_mountain", "eval_loss": 3.538982391357422, "eval_model": "../mt5_models/finnish/5"}

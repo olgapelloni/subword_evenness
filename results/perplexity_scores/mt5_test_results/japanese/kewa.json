@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.46232539415359497, "eval_lang": "kewa", "eval_loss": 3.6119022369384766, "eval_model": "../mt5_models/japanese/1"}
+{"eval_accuracy": 0.46298015117645264, "eval_lang": "kewa", "eval_loss": 3.622384548187256, "eval_model": "../mt5_models/japanese/2"}
+{"eval_accuracy": 0.4700731337070465, "eval_lang": "kewa", "eval_loss": 3.584320545196533, "eval_model": "../mt5_models/japanese/3"}
+{"eval_accuracy": 0.4576331079006195, "eval_lang": "kewa", "eval_loss": 3.6890058517456055, "eval_model": "../mt5_models/japanese/4"}
+{"eval_accuracy": 0.46098870038986206, "eval_lang": "kewa", "eval_loss": 3.615574359893799, "eval_model": "../mt5_models/japanese/5"}

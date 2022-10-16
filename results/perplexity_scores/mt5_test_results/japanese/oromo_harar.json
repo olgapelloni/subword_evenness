@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4902172386646271, "eval_lang": "oromo_harar", "eval_loss": 3.0325684547424316, "eval_model": "../mt5_models/japanese/1"}
+{"eval_accuracy": 0.49040740728378296, "eval_lang": "oromo_harar", "eval_loss": 3.0443050861358643, "eval_model": "../mt5_models/japanese/2"}
+{"eval_accuracy": 0.4971475899219513, "eval_lang": "oromo_harar", "eval_loss": 2.9978435039520264, "eval_model": "../mt5_models/japanese/3"}
+{"eval_accuracy": 0.48436447978019714, "eval_lang": "oromo_harar", "eval_loss": 3.12861967086792, "eval_model": "../mt5_models/japanese/4"}
+{"eval_accuracy": 0.48954108357429504, "eval_lang": "oromo_harar", "eval_loss": 3.0342934131622314, "eval_model": "../mt5_models/japanese/5"}

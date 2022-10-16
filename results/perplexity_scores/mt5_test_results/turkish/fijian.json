@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5330356955528259, "eval_lang": "fijian", "eval_loss": 2.610337495803833, "eval_model": "../mt5_models/turkish/1"}
+{"eval_accuracy": 0.5479679703712463, "eval_lang": "fijian", "eval_loss": 2.3954520225524902, "eval_model": "../mt5_models/turkish/2"}
+{"eval_accuracy": 0.5351293087005615, "eval_lang": "fijian", "eval_loss": 2.5503900051116943, "eval_model": "../mt5_models/turkish/3"}
+{"eval_accuracy": 0.532974123954773, "eval_lang": "fijian", "eval_loss": 2.547689437866211, "eval_model": "../mt5_models/turkish/4"}
+{"eval_accuracy": 0.5283251404762268, "eval_lang": "fijian", "eval_loss": 2.545839309692383, "eval_model": "../mt5_models/turkish/5"}

@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4859491288661957, "eval_lang": "oromo_harar", "eval_loss": 3.0078768730163574, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.48007524013519287, "eval_lang": "oromo_harar", "eval_loss": 3.044692277908325, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.5001267790794373, "eval_lang": "oromo_harar", "eval_loss": 2.978238344192505, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.500739574432373, "eval_lang": "oromo_harar", "eval_loss": 2.9614052772521973, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.48024430871009827, "eval_lang": "oromo_harar", "eval_loss": 3.108165979385376, "eval_model": "../mt5_models/greek_modern/5"}

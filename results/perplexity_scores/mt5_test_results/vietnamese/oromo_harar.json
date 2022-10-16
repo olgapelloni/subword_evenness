@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4693627655506134, "eval_lang": "oromo_harar", "eval_loss": 3.1463568210601807, "eval_model": "../mt5_models/vietnamese/1"}
+{"eval_accuracy": 0.4621365964412689, "eval_lang": "oromo_harar", "eval_loss": 3.2190020084381104, "eval_model": "../mt5_models/vietnamese/2"}
+{"eval_accuracy": 0.49383029341697693, "eval_lang": "oromo_harar", "eval_loss": 3.0252180099487305, "eval_model": "../mt5_models/vietnamese/3"}
+{"eval_accuracy": 0.4822092652320862, "eval_lang": "oromo_harar", "eval_loss": 3.0795738697052, "eval_model": "../mt5_models/vietnamese/4"}
+{"eval_accuracy": 0.4987322688102722, "eval_lang": "oromo_harar", "eval_loss": 3.0198774337768555, "eval_model": "../mt5_models/vietnamese/5"}

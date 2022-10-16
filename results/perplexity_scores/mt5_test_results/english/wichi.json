@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5289986729621887, "eval_lang": "wichi", "eval_loss": 3.0937583446502686, "eval_model": "../mt5_models/english/1"}
+{"eval_accuracy": 0.5227832794189453, "eval_lang": "wichi", "eval_loss": 3.147505283355713, "eval_model": "../mt5_models/english/2"}
+{"eval_accuracy": 0.5261699557304382, "eval_lang": "wichi", "eval_loss": 3.108670949935913, "eval_model": "../mt5_models/english/3"}
+{"eval_accuracy": 0.5341556668281555, "eval_lang": "wichi", "eval_loss": 3.0896737575531006, "eval_model": "../mt5_models/english/4"}
+{"eval_accuracy": 0.5332897305488586, "eval_lang": "wichi", "eval_loss": 3.088768243789673, "eval_model": "../mt5_models/english/5"}

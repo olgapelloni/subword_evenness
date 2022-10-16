@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.640015184879303, "eval_lang": "malagasy", "eval_loss": 1.8511470556259155, "eval_model": "../mt5_models/hindi/1"}
+{"eval_accuracy": 0.6454149484634399, "eval_lang": "malagasy", "eval_loss": 1.8203916549682617, "eval_model": "../mt5_models/hindi/2"}
+{"eval_accuracy": 0.637694239616394, "eval_lang": "malagasy", "eval_loss": 1.8511614799499512, "eval_model": "../mt5_models/hindi/3"}
+{"eval_accuracy": 0.6434966325759888, "eval_lang": "malagasy", "eval_loss": 1.8174294233322144, "eval_model": "../mt5_models/hindi/4"}
+{"eval_accuracy": 0.6255210638046265, "eval_lang": "malagasy", "eval_loss": 1.9099180698394775, "eval_model": "../mt5_models/hindi/5"}

@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5756465196609497, "eval_lang": "sango", "eval_loss": 2.340780019760132, "eval_model": "google/mt5-base"}
+{"eval_accuracy": 0.5837746858596802, "eval_lang": "sango", "eval_loss": 2.2918717861175537, "eval_model": "google/mt5-base"}
+{"eval_accuracy": 0.5840825438499451, "eval_lang": "sango", "eval_loss": 2.276456117630005, "eval_model": "google/mt5-base"}
+{"eval_accuracy": 0.5844212174415588, "eval_lang": "sango", "eval_loss": 2.2900853157043457, "eval_model": "google/mt5-base"}
+{"eval_accuracy": 0.5798337459564209, "eval_lang": "sango", "eval_loss": 2.3117265701293945, "eval_model": "google/mt5-base"}

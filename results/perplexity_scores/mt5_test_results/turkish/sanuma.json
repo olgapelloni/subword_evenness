@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5587941408157349, "eval_lang": "sanuma", "eval_loss": 2.7390947341918945, "eval_model": "../mt5_models/turkish/1"}
+{"eval_accuracy": 0.5659167170524597, "eval_lang": "sanuma", "eval_loss": 2.5843238830566406, "eval_model": "../mt5_models/turkish/2"}
+{"eval_accuracy": 0.5592935085296631, "eval_lang": "sanuma", "eval_loss": 2.6811728477478027, "eval_model": "../mt5_models/turkish/3"}
+{"eval_accuracy": 0.558741569519043, "eval_lang": "sanuma", "eval_loss": 2.6831374168395996, "eval_model": "../mt5_models/turkish/4"}
+{"eval_accuracy": 0.5520395040512085, "eval_lang": "sanuma", "eval_loss": 2.700201988220215, "eval_model": "../mt5_models/turkish/5"}

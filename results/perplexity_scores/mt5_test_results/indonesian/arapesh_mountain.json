@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.48262250423431396, "eval_lang": "arapesh_mountain", "eval_loss": 3.5048675537109375, "eval_model": "../mt5_models/indonesian/1"}
+{"eval_accuracy": 0.47808530926704407, "eval_lang": "arapesh_mountain", "eval_loss": 3.58284854888916, "eval_model": "../mt5_models/indonesian/2"}
+{"eval_accuracy": 0.46540385484695435, "eval_lang": "arapesh_mountain", "eval_loss": 3.652465343475342, "eval_model": "../mt5_models/indonesian/3"}
+{"eval_accuracy": 0.4844147264957428, "eval_lang": "arapesh_mountain", "eval_loss": 3.5374388694763184, "eval_model": "../mt5_models/indonesian/4"}
+{"eval_accuracy": 0.4901769757270813, "eval_lang": "arapesh_mountain", "eval_loss": 3.489879608154297, "eval_model": "../mt5_models/indonesian/5"}

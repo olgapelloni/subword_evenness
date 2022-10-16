@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.47143834829330444, "eval_lang": "arapesh_mountain", "eval_loss": 3.5587069988250732, "eval_model": "../mt5_models/spanish/1"}
+{"eval_accuracy": 0.47388842701911926, "eval_lang": "arapesh_mountain", "eval_loss": 3.5395143032073975, "eval_model": "../mt5_models/spanish/2"}
+{"eval_accuracy": 0.4719600975513458, "eval_lang": "arapesh_mountain", "eval_loss": 3.5401904582977295, "eval_model": "../mt5_models/spanish/3"}
+{"eval_accuracy": 0.47915154695510864, "eval_lang": "arapesh_mountain", "eval_loss": 3.5204970836639404, "eval_model": "../mt5_models/spanish/4"}
+{"eval_accuracy": 0.4763384461402893, "eval_lang": "arapesh_mountain", "eval_loss": 3.542142391204834, "eval_model": "../mt5_models/spanish/5"}

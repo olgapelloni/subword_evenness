@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4630419909954071, "eval_lang": "khalkha", "eval_loss": 3.4241843223571777, "eval_model": "../mt5_models/basque/1"}
+{"eval_accuracy": 0.39774665236473083, "eval_lang": "khalkha", "eval_loss": 3.745213270187378, "eval_model": "../mt5_models/basque/2"}
+{"eval_accuracy": 0.44859594106674194, "eval_lang": "khalkha", "eval_loss": 3.4999897480010986, "eval_model": "../mt5_models/basque/3"}
+{"eval_accuracy": 0.46993425488471985, "eval_lang": "khalkha", "eval_loss": 3.3934414386749268, "eval_model": "../mt5_models/basque/4"}
+{"eval_accuracy": 0.4739885628223419, "eval_lang": "khalkha", "eval_loss": 3.3665900230407715, "eval_model": "../mt5_models/basque/5"}

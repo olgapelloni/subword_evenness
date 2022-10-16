@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.49139344692230225, "eval_lang": "yagua", "eval_loss": 3.2195634841918945, "eval_model": "../mt5_models/french/1"}
+{"eval_accuracy": 0.49686649441719055, "eval_lang": "yagua", "eval_loss": 3.1692466735839844, "eval_model": "../mt5_models/french/2"}
+{"eval_accuracy": 0.4972493052482605, "eval_lang": "yagua", "eval_loss": 3.1541848182678223, "eval_model": "../mt5_models/french/3"}
+{"eval_accuracy": 0.48365190625190735, "eval_lang": "yagua", "eval_loss": 3.2659401893615723, "eval_model": "../mt5_models/french/4"}
+{"eval_accuracy": 0.48053255677223206, "eval_lang": "yagua", "eval_loss": 3.2659213542938232, "eval_model": "../mt5_models/french/5"}

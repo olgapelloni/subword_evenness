@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4866338074207306, "eval_lang": "khoekhoe", "eval_loss": 3.098715305328369, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.47865551710128784, "eval_lang": "khoekhoe", "eval_loss": 3.1481382846832275, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.4994819462299347, "eval_lang": "khoekhoe", "eval_loss": 3.0689141750335693, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.4980728030204773, "eval_lang": "khoekhoe", "eval_loss": 3.055220127105713, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.47498756647109985, "eval_lang": "khoekhoe", "eval_loss": 3.1657471656799316, "eval_model": "../mt5_models/greek_modern/5"}

@@ -1,0 +1,721 @@
+target	transfer	ppl	model	how_close	lang_order	transfer_order	area_target
+Alamblak	Hindi	98.04013385	mBERT	Syntactically close	a	a_Hindi	Papunesia
+Alamblak	Basque	49.0580978	mBERT	Phonologically close	b	b_Basque	Papunesia
+Alamblak	Indonesian	47.54816703	mBERT	Inventorially close	c	c_Indonesian	Papunesia
+Alamblak	Mandarin	44.14237056	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Alamblak	Hebrew	45.92651735	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Alamblak	Korean	48.34163599	mBERT	Min SuE	f	f_Korean	Papunesia
+Alamblak	Thai	44.11171794	mBERT	Min SuE	g	g_Thai	Papunesia
+Alamblak	Greek	43.14059677	mBERT	Min SuE	h	h_Greek	Papunesia
+Amele	Basque	43.3695683	mBERT	Syntactically close	a	a_Basque	Papunesia
+Amele	Basque	NA	NA	Phonologically close	b	b_Basque	Papunesia
+Amele	Tagalog	51.72268445	mBERT	Inventorially close	c	c_Tagalog	Papunesia
+Amele	Mandarin	40.66357253	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Amele	Hebrew	39.19896341	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Amele	Korean	43.7984513	mBERT	Min SuE	f	f_Korean	Papunesia
+Amele	Thai	41.07714298	mBERT	Min SuE	g	g_Thai	Papunesia
+Amele	Greek	40.37434631	mBERT	Min SuE	h	h_Greek	Papunesia
+Apurina	Basque	27.74215706	mBERT	Syntactically close	a	a_Basque	South America
+Apurina	Hindi	42.73827069	mBERT	Phonologically close	b	b_Hindi	South America
+Apurina	Tagalog	32.8431977	mBERT	Inventorially close	c	c_Tagalog	South America
+Apurina	Mandarin	27.41681567	mBERT	Min SuE	d	d_Mandarin	South America
+Apurina	Hebrew	25.86785004	mBERT	Min SuE	e	e_Hebrew	South America
+Apurina	Korean	30.4638951	mBERT	Min SuE	f	f_Korean	South America
+Apurina	Thai	24.92494574	mBERT	Min SuE	g	g_Thai	South America
+Apurina	Greek	25.77106142	mBERT	Min SuE	h	h_Greek	South America
+Arabic	Hebrew	3.789684561	mBERT	Syntactically close	a	a_Hebrew	Africa
+Arabic	Hebrew	NA	NA	Phonologically close	b	b_Hebrew	Africa
+Arabic	Persian	4.471053506	mBERT	Inventorially close	c	c_Persian	Africa
+Arabic	Mandarin	3.878760197	mBERT	Min SuE	d	d_Mandarin	Africa
+Arabic	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Arabic	Korean	3.988797271	mBERT	Min SuE	f	f_Korean	Africa
+Arabic	Thai	3.732253994	mBERT	Min SuE	g	g_Thai	Africa
+Arabic	Greek	3.836525457	mBERT	Min SuE	h	h_Greek	Africa
+Arapesh	Spanish	40.21878132	mBERT	Syntactically close	a	a_Spanish	Papunesia
+Arapesh	Basque	37.35976146	mBERT	Phonologically close	b	b_Basque	Papunesia
+Arapesh	Tagalog	43.69825679	mBERT	Inventorially close	c	c_Tagalog	Papunesia
+Arapesh	Mandarin	35.83363164	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Arapesh	Hebrew	34.89032354	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Arapesh	Korean	37.42165526	mBERT	Min SuE	f	f_Korean	Papunesia
+Arapesh	Thai	33.79655986	mBERT	Min SuE	g	g_Thai	Papunesia
+Arapesh	Greek	33.09714896	mBERT	Min SuE	h	h_Greek	Papunesia
+Barasano	Turkish	20.05527488	mBERT	Syntactically close	a	a_Turkish	South America
+Barasano	Hindi	31.07771409	mBERT	Phonologically close	b	b_Hindi	South America
+Barasano	Tagalog	26.98996592	mBERT	Inventorially close	c	c_Tagalog	South America
+Barasano	Mandarin	19.77002666	mBERT	Min SuE	d	d_Mandarin	South America
+Barasano	Hebrew	19.25618873	mBERT	Min SuE	e	e_Hebrew	South America
+Barasano	Korean	20.63338938	mBERT	Min SuE	f	f_Korean	South America
+Barasano	Thai	18.75627947	mBERT	Min SuE	g	g_Thai	South America
+Barasano	Greek	18.67107385	mBERT	Min SuE	h	h_Greek	South America
+Burmese	Korean	3.092948651	mBERT	Syntactically close	a	a_Korean	Eurasia
+Burmese	Thai	3.172301551	mBERT	Phonologically close	b	b_Thai	Eurasia
+Burmese	English	2.993169266	mBERT	Inventorially close	c	c_English	Eurasia
+Burmese	Mandarin	3.127330995	mBERT	Min SuE	d	d_Mandarin	Eurasia
+Burmese	Hebrew	3.027090769	mBERT	Min SuE	e	e_Hebrew	Eurasia
+Burmese	Korean	NA	NA	Min SuE	f	f_Korean	Eurasia
+Burmese	Thai	NA	NA	Min SuE	g	g_Thai	Eurasia
+Burmese	Greek	2.974917696	mBERT	Min SuE	h	h_Greek	Eurasia
+Chamorro	Tagalog	58.80625186	mBERT	Syntactically close	a	a_Tagalog	Papunesia
+Chamorro	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Chamorro	Indonesian	44.10470534	mBERT	Inventorially close	c	c_Indonesian	Papunesia
+Chamorro	Mandarin	45.45808352	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Chamorro	Hebrew	45.1146308	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Chamorro	Korean	45.66021607	mBERT	Min SuE	f	f_Korean	Papunesia
+Chamorro	Thai	43.3000876	mBERT	Min SuE	g	g_Thai	Papunesia
+Chamorro	Greek	43.9807062	mBERT	Min SuE	h	h_Greek	Papunesia
+Daga	Hindi	114.6521366	mBERT	Syntactically close	a	a_Hindi	Papunesia
+Daga	Basque	57.11568778	mBERT	Phonologically close	b	b_Basque	Papunesia
+Daga	Thai	54.26280285	mBERT	Inventorially close	c	c_Thai	Papunesia
+Daga	Mandarin	52.44597678	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Daga	Hebrew	54.14281947	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Daga	Korean	55.88761581	mBERT	Min SuE	f	f_Korean	Papunesia
+Daga	Thai	NA	NA	Min SuE	g	g_Thai	Papunesia
+Daga	Greek	52.66397986	mBERT	Min SuE	h	h_Greek	Papunesia
+Fijian	Tagalog	37.92330032	mBERT	Syntactically close	a	a_Tagalog	Papunesia
+Fijian	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Fijian	Indonesian	32.39497952	mBERT	Inventorially close	c	c_Indonesian	Papunesia
+Fijian	Mandarin	30.75113265	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Fijian	Hebrew	28.91641404	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Fijian	Korean	31.9847157	mBERT	Min SuE	f	f_Korean	Papunesia
+Fijian	Thai	30.17853883	mBERT	Min SuE	g	g_Thai	Papunesia
+Fijian	Greek	28.20524322	mBERT	Min SuE	h	h_Greek	Papunesia
+Georgian	Basque	21.43241649	mBERT	Syntactically close	a	a_Basque	Eurasia
+Georgian	Hebrew	22.55027139	mBERT	Phonologically close	b	b_Hebrew	Eurasia
+Georgian	Persian	40.84558073	mBERT	Inventorially close	c	c_Persian	Eurasia
+Georgian	Mandarin	23.90201127	mBERT	Min SuE	d	d_Mandarin	Eurasia
+Georgian	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Eurasia
+Georgian	Korean	21.45114566	mBERT	Min SuE	f	f_Korean	Eurasia
+Georgian	Thai	25.24148802	mBERT	Min SuE	g	g_Thai	Eurasia
+Georgian	Greek	25.88210042	mBERT	Min SuE	h	h_Greek	Eurasia
+Guarani	Basque	39.03074681	mBERT	Syntactically close	a	a_Basque	South America
+Guarani	Hindi	68.6225966	mBERT	Phonologically close	b	b_Hindi	South America
+Guarani	Spanish	46.63361864	mBERT	Inventorially close	c	c_Spanish	South America
+Guarani	Mandarin	41.60603083	mBERT	Min SuE	d	d_Mandarin	South America
+Guarani	Hebrew	39.36887628	mBERT	Min SuE	e	e_Hebrew	South America
+Guarani	Korean	42.78800555	mBERT	Min SuE	f	f_Korean	South America
+Guarani	Thai	38.98515272	mBERT	Min SuE	g	g_Thai	South America
+Guarani	Greek	38.82370934	mBERT	Min SuE	h	h_Greek	South America
+Hausa	Thai	53.14926916	mBERT	Syntactically close	a	a_Thai	Africa
+Hausa	Vietnamese	55.75355667	mBERT	Phonologically close	b	b_Vietnamese	Africa
+Hausa	Indonesian	58.68315623	mBERT	Inventorially close	c	c_Indonesian	Africa
+Hausa	Mandarin	55.72538974	mBERT	Min SuE	d	d_Mandarin	Africa
+Hausa	Hebrew	53.36432384	mBERT	Min SuE	e	e_Hebrew	Africa
+Hausa	Korean	53.28442206	mBERT	Min SuE	f	f_Korean	Africa
+Hausa	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Hausa	Greek	50.2280932	mBERT	Min SuE	h	h_Greek	Africa
+Jakaltek	Tagalog	37.01023004	mBERT	Syntactically close	a	a_Tagalog	North America
+Jakaltek	Basque	29.23422807	mBERT	Phonologically close	b	b_Basque	North America
+Jakaltek	Mandarin	27.84533726	mBERT	Inventorially close	c	c_Mandarin	North America
+Jakaltek	Mandarin	NA	NA	Min SuE	d	d_Mandarin	North America
+Jakaltek	Hebrew	27.16273775	mBERT	Min SuE	e	e_Hebrew	North America
+Jakaltek	Korean	28.9580198	mBERT	Min SuE	f	f_Korean	North America
+Jakaltek	Thai	27.85858077	mBERT	Min SuE	g	g_Thai	North America
+Jakaltek	Greek	26.91026428	mBERT	Min SuE	h	h_Greek	North America
+Kewa	Japanese	42.97351272	mBERT	Syntactically close	a	a_Japanese	Papunesia
+Kewa	Basque	47.96568075	mBERT	Phonologically close	b	b_Basque	Papunesia
+Kewa	Tagalog	59.15321009	mBERT	Inventorially close	c	c_Tagalog	Papunesia
+Kewa	Mandarin	45.50249851	mBERT	Min SuE	d	d_Mandarin	Papunesia
+Kewa	Hebrew	43.80354909	mBERT	Min SuE	e	e_Hebrew	Papunesia
+Kewa	Korean	49.08545457	mBERT	Min SuE	f	f_Korean	Papunesia
+Kewa	Thai	44.96239732	mBERT	Min SuE	g	g_Thai	Papunesia
+Kewa	Greek	44.49937041	mBERT	Min SuE	h	h_Greek	Papunesia
+Khalkha	Japanese	118.3132443	mBERT	Syntactically close	a	a_Japanese	Eurasia
+Khalkha	English	131.9514908	mBERT	Phonologically close	b	b_English	Eurasia
+Khalkha	Finnish	132.243452	mBERT	Inventorially close	c	c_Finnish	Eurasia
+Khalkha	Mandarin	131.8610354	mBERT	Min SuE	d	d_Mandarin	Eurasia
+Khalkha	Hebrew	126.9712354	mBERT	Min SuE	e	e_Hebrew	Eurasia
+Khalkha	Korean	137.1396697	mBERT	Min SuE	f	f_Korean	Eurasia
+Khalkha	Thai	125.7898329	mBERT	Min SuE	g	g_Thai	Eurasia
+Khalkha	Greek	130.7127005	mBERT	Min SuE	h	h_Greek	Eurasia
+Khoekhoe	Russian	13.6584779	mBERT	Syntactically close	a	a_Russian	Africa
+Khoekhoe	Japanese	13.9811233	mBERT	Phonologically close	b	b_Japanese	Africa
+Khoekhoe	Indonesian	15.51360867	mBERT	Inventorially close	c	c_Indonesian	Africa
+Khoekhoe	Mandarin	14.77361676	mBERT	Min SuE	d	d_Mandarin	Africa
+Khoekhoe	Hebrew	13.45587804	mBERT	Min SuE	e	e_Hebrew	Africa
+Khoekhoe	Korean	14.27555488	mBERT	Min SuE	f	f_Korean	Africa
+Khoekhoe	Thai	14.12468004	mBERT	Min SuE	g	g_Thai	Africa
+Khoekhoe	Greek	14.36023284	mBERT	Min SuE	h	h_Greek	Africa
+Lango	Indonesian	44.15869705	mBERT	Syntactically close	a	a_Indonesian	Africa
+Lango	Thai	42.13006643	mBERT	Phonologically close	b	b_Thai	Africa
+Lango	Indonesian	NA	NA	Inventorially close	c	c_Indonesian	Africa
+Lango	Mandarin	40.9735354	mBERT	Min SuE	d	d_Mandarin	Africa
+Lango	Hebrew	41.87829875	mBERT	Min SuE	e	e_Hebrew	Africa
+Lango	Korean	42.44427959	mBERT	Min SuE	f	f_Korean	Africa
+Lango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Lango	Greek	42.76138597	mBERT	Min SuE	h	h_Greek	Africa
+Malagasy	Tagalog	11.56795003	mBERT	Syntactically close	a	a_Tagalog	Africa
+Malagasy	Indonesian	10.80872412	mBERT	Phonologically close	b	b_Indonesian	Africa
+Malagasy	Tagalog	NA	NA	Inventorially close	c	c_Tagalog	Africa
+Malagasy	Mandarin	10.60428561	mBERT	Min SuE	d	d_Mandarin	Africa
+Malagasy	Hebrew	10.47713331	mBERT	Min SuE	e	e_Hebrew	Africa
+Malagasy	Korean	10.70644535	mBERT	Min SuE	f	f_Korean	Africa
+Malagasy	Thai	11.04789555	mBERT	Min SuE	g	g_Thai	Africa
+Malagasy	Greek	10.59558879	mBERT	Min SuE	h	h_Greek	Africa
+Mapudungun	Hindi	67.22450022	mBERT	Syntactically close	a	a_Hindi	South America
+Mapudungun	Tagalog	39.87484584	mBERT	Phonologically close	b	b_Tagalog	South America
+Mapudungun	Indonesian	33.65775696	mBERT	Inventorially close	c	c_Indonesian	South America
+Mapudungun	Mandarin	32.10091462	mBERT	Min SuE	d	d_Mandarin	South America
+Mapudungun	Hebrew	31.27974042	mBERT	Min SuE	e	e_Hebrew	South America
+Mapudungun	Korean	33.74958061	mBERT	Min SuE	f	f_Korean	South America
+Mapudungun	Thai	31.38541356	mBERT	Min SuE	g	g_Thai	South America
+Mapudungun	Greek	30.18983157	mBERT	Min SuE	h	h_Greek	South America
+Mixtec	Tagalog	15.7788657	mBERT	Syntactically close	a	a_Tagalog	North America
+Mixtec	Greek	11.72106225	mBERT	Phonologically close	b	b_Greek	North America
+Mixtec	Indonesian	11.98102381	mBERT	Inventorially close	c	c_Indonesian	North America
+Mixtec	Mandarin	12.7155765	mBERT	Min SuE	d	d_Mandarin	North America
+Mixtec	Hebrew	11.57966328	mBERT	Min SuE	e	e_Hebrew	North America
+Mixtec	Korean	12.13768352	mBERT	Min SuE	f	f_Korean	North America
+Mixtec	Thai	11.06726144	mBERT	Min SuE	g	g_Thai	North America
+Mixtec	Greek	NA	NA	Min SuE	h	h_Greek	North America
+Oromo	Basque	58.41596368	mBERT	Syntactically close	a	a_Basque	Africa
+Oromo	Vietnamese	62.06286671	mBERT	Phonologically close	b	b_Vietnamese	Africa
+Oromo	Indonesian	60.04531768	mBERT	Inventorially close	c	c_Indonesian	Africa
+Oromo	Mandarin	55.20402974	mBERT	Min SuE	d	d_Mandarin	Africa
+Oromo	Hebrew	55.79020568	mBERT	Min SuE	e	e_Hebrew	Africa
+Oromo	Korean	60.36651418	mBERT	Min SuE	f	f_Korean	Africa
+Oromo	Thai	54.8649233	mBERT	Min SuE	g	g_Thai	Africa
+Oromo	Greek	53.65492904	mBERT	Min SuE	h	h_Greek	Africa
+Quechua	Turkish	33.55268481	mBERT	Syntactically close	a	a_Turkish	South America
+Quechua	Greek	30.52976207	mBERT	Phonologically close	b	b_Greek	South America
+Quechua	Spanish	36.97707635	mBERT	Inventorially close	c	c_Spanish	South America
+Quechua	Mandarin	32.9135963	mBERT	Min SuE	d	d_Mandarin	South America
+Quechua	Hebrew	31.80595993	mBERT	Min SuE	e	e_Hebrew	South America
+Quechua	Korean	35.81383896	mBERT	Min SuE	f	f_Korean	South America
+Quechua	Thai	31.6890604	mBERT	Min SuE	g	g_Thai	South America
+Quechua	Greek	NA	NA	Min SuE	h	h_Greek	South America
+Sango	Thai	24.25286153	mBERT	Syntactically close	a	a_Thai	Africa
+Sango	Hindi	53.39992376	mBERT	Phonologically close	b	b_Hindi	Africa
+Sango	Indonesian	25.56611561	mBERT	Inventorially close	c	c_Indonesian	Africa
+Sango	Mandarin	23.90288792	mBERT	Min SuE	d	d_Mandarin	Africa
+Sango	Hebrew	23.26754701	mBERT	Min SuE	e	e_Hebrew	Africa
+Sango	Korean	25.52637047	mBERT	Min SuE	f	f_Korean	Africa
+Sango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Sango	Greek	22.44559227	mBERT	Min SuE	h	h_Greek	Africa
+Sanuma	Basque	16.7307386	mBERT	Syntactically close	a	a_Basque	South America
+Sanuma	Hindi	31.39630807	mBERT	Phonologically close	b	b_Hindi	South America
+Sanuma	Korean	16.99138479	mBERT	Inventorially close	c	c_Korean	South America
+Sanuma	Mandarin	14.94474836	mBERT	Min SuE	d	d_Mandarin	South America
+Sanuma	Hebrew	15.13524528	mBERT	Min SuE	e	e_Hebrew	South America
+Sanuma	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Sanuma	Thai	15.57056435	mBERT	Min SuE	g	g_Thai	South America
+Sanuma	Greek	14.75993021	mBERT	Min SuE	h	h_Greek	South America
+Swahili	Hebrew	13.46288742	mBERT	Syntactically close	a	a_Hebrew	Africa
+Swahili	English	13.62242859	mBERT	Phonologically close	b	b_English	Africa
+Swahili	Indonesian	14.10513617	mBERT	Inventorially close	c	c_Indonesian	Africa
+Swahili	Mandarin	13.60082678	mBERT	Min SuE	d	d_Mandarin	Africa
+Swahili	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Swahili	Korean	14.26118016	mBERT	Min SuE	f	f_Korean	Africa
+Swahili	Thai	14.26169261	mBERT	Min SuE	g	g_Thai	Africa
+Swahili	Greek	13.89354196	mBERT	Min SuE	h	h_Greek	Africa
+Wichi	Basque	16.68922103	mBERT	Syntactically close	a	a_Basque	South America
+Wichi	Korean	17.20820314	mBERT	Phonologically close	b	b_Korean	South America
+Wichi	Tagalog	19.86754432	mBERT	Inventorially close	c	c_Tagalog	South America
+Wichi	Mandarin	16.01882761	mBERT	Min SuE	d	d_Mandarin	South America
+Wichi	Hebrew	15.66101567	mBERT	Min SuE	e	e_Hebrew	South America
+Wichi	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Wichi	Thai	15.84554705	mBERT	Min SuE	g	g_Thai	South America
+Wichi	Greek	15.65268455	mBERT	Min SuE	h	h_Greek	South America
+Yagua	Finnish	18.25429636	mBERT	Syntactically close	a	a_Finnish	South America
+Yagua	Japanese	15.79423159	mBERT	Phonologically close	b	b_Japanese	South America
+Yagua	Tagalog	21.08941472	mBERT	Inventorially close	c	c_Tagalog	South America
+Yagua	Mandarin	17.07196414	mBERT	Min SuE	d	d_Mandarin	South America
+Yagua	Hebrew	16.91649827	mBERT	Min SuE	e	e_Hebrew	South America
+Yagua	Korean	17.70450961	mBERT	Min SuE	f	f_Korean	South America
+Yagua	Thai	16.64248334	mBERT	Min SuE	g	g_Thai	South America
+Yagua	Greek	16.82137319	mBERT	Min SuE	h	h_Greek	South America
+Yaqui	Hindi	59.59536784	mBERT	Syntactically close	a	a_Hindi	North America
+Yaqui	Thai	28.84746077	mBERT	Phonologically close	b	b_Thai	North America
+Yaqui	Tagalog	39.81472709	mBERT	Inventorially close	c	c_Tagalog	North America
+Yaqui	Mandarin	29.08053257	mBERT	Min SuE	d	d_Mandarin	North America
+Yaqui	Hebrew	30.05804859	mBERT	Min SuE	e	e_Hebrew	North America
+Yaqui	Korean	31.53471912	mBERT	Min SuE	f	f_Korean	North America
+Yaqui	Thai	NA	NA	Min SuE	g	g_Thai	North America
+Yaqui	Greek	27.48419755	mBERT	Min SuE	h	h_Greek	North America
+Yoruba	Thai	8.526860321	mBERT	Syntactically close	a	a_Thai	Africa
+Yoruba	Basque	8.820955053	mBERT	Phonologically close	b	b_Basque	Africa
+Yoruba	Indonesian	8.440122342	mBERT	Inventorially close	c	c_Indonesian	Africa
+Yoruba	Mandarin	8.288392947	mBERT	Min SuE	d	d_Mandarin	Africa
+Yoruba	Hebrew	8.407137423	mBERT	Min SuE	e	e_Hebrew	Africa
+Yoruba	Korean	8.570517602	mBERT	Min SuE	f	f_Korean	Africa
+Yoruba	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Yoruba	Greek	8.223637313	mBERT	Min SuE	h	h_Greek	Africa
+Alamblak	Hindi	99.15265587	XLM-R	Syntactically close	a	a_Hindi	Papunesia
+Alamblak	Basque	59.20711231	XLM-R	Phonologically close	b	b_Basque	Papunesia
+Alamblak	Indonesian	57.2070028	XLM-R	Inventorially close	c	c_Indonesian	Papunesia
+Alamblak	Mandarin	53.48631891	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Alamblak	Hebrew	53.93770851	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Alamblak	Korean	53.16569944	XLM-R	Min SuE	f	f_Korean	Papunesia
+Alamblak	Thai	62.82312291	XLM-R	Min SuE	g	g_Thai	Papunesia
+Alamblak	Greek	56.95439869	XLM-R	Min SuE	h	h_Greek	Papunesia
+Amele	Basque	70.31090515	XLM-R	Syntactically close	a	a_Basque	Papunesia
+Amele	Basque	NA	NA	Phonologically close	b	b_Basque	Papunesia
+Amele	Tagalog	79.43077213	XLM-R	Inventorially close	c	c_Tagalog	Papunesia
+Amele	Mandarin	56.78294809	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Amele	Hebrew	57.31302027	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Amele	Korean	55.10620507	XLM-R	Min SuE	f	f_Korean	Papunesia
+Amele	Thai	68.053718	XLM-R	Min SuE	g	g_Thai	Papunesia
+Amele	Greek	61.58251873	XLM-R	Min SuE	h	h_Greek	Papunesia
+Apurina	Basque	41.54793528	XLM-R	Syntactically close	a	a_Basque	South America
+Apurina	Hindi	54.42897259	XLM-R	Phonologically close	b	b_Hindi	South America
+Apurina	Tagalog	52.75452979	XLM-R	Inventorially close	c	c_Tagalog	South America
+Apurina	Mandarin	38.05658559	XLM-R	Min SuE	d	d_Mandarin	South America
+Apurina	Hebrew	39.79427051	XLM-R	Min SuE	e	e_Hebrew	South America
+Apurina	Korean	40.43291704	XLM-R	Min SuE	f	f_Korean	South America
+Apurina	Thai	47.54892461	XLM-R	Min SuE	g	g_Thai	South America
+Apurina	Greek	41.96699334	XLM-R	Min SuE	h	h_Greek	South America
+Arabic	Hebrew	2.517502006	XLM-R	Syntactically close	a	a_Hebrew	Africa
+Arabic	Hebrew	NA	NA	Phonologically close	b	b_Hebrew	Africa
+Arabic	Persian	2.664211766	XLM-R	Inventorially close	c	c_Persian	Africa
+Arabic	Mandarin	2.560392075	XLM-R	Min SuE	d	d_Mandarin	Africa
+Arabic	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Arabic	Korean	2.513869495	XLM-R	Min SuE	f	f_Korean	Africa
+Arabic	Thai	2.589315793	XLM-R	Min SuE	g	g_Thai	Africa
+Arabic	Greek	2.543368515	XLM-R	Min SuE	h	h_Greek	Africa
+Arapesh	Spanish	62.67174891	XLM-R	Syntactically close	a	a_Spanish	Papunesia
+Arapesh	Basque	64.95614841	XLM-R	Phonologically close	b	b_Basque	Papunesia
+Arapesh	Tagalog	78.27664502	XLM-R	Inventorially close	c	c_Tagalog	Papunesia
+Arapesh	Mandarin	56.93095593	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Arapesh	Hebrew	59.03363872	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Arapesh	Korean	56.83731305	XLM-R	Min SuE	f	f_Korean	Papunesia
+Arapesh	Thai	70.39316443	XLM-R	Min SuE	g	g_Thai	Papunesia
+Arapesh	Greek	61.73753049	XLM-R	Min SuE	h	h_Greek	Papunesia
+Barasano	Turkish	24.55102159	XLM-R	Syntactically close	a	a_Turkish	South America
+Barasano	Hindi	28.83285788	XLM-R	Phonologically close	b	b_Hindi	South America
+Barasano	Tagalog	31.35624416	XLM-R	Inventorially close	c	c_Tagalog	South America
+Barasano	Mandarin	20.94072298	XLM-R	Min SuE	d	d_Mandarin	South America
+Barasano	Hebrew	20.39399324	XLM-R	Min SuE	e	e_Hebrew	South America
+Barasano	Korean	20.6969896	XLM-R	Min SuE	f	f_Korean	South America
+Barasano	Thai	24.59309409	XLM-R	Min SuE	g	g_Thai	South America
+Barasano	Greek	20.53287227	XLM-R	Min SuE	h	h_Greek	South America
+Burmese	Korean	7.155899201	XLM-R	Syntactically close	a	a_Korean	Eurasia
+Burmese	Thai	7.377860997	XLM-R	Phonologically close	b	b_Thai	Eurasia
+Burmese	English	6.753270735	XLM-R	Inventorially close	c	c_English	Eurasia
+Burmese	Mandarin	7.060559239	XLM-R	Min SuE	d	d_Mandarin	Eurasia
+Burmese	Hebrew	7.146605895	XLM-R	Min SuE	e	e_Hebrew	Eurasia
+Burmese	Korean	NA	NA	Min SuE	f	f_Korean	Eurasia
+Burmese	Thai	NA	NA	Min SuE	g	g_Thai	Eurasia
+Burmese	Greek	6.999835901	XLM-R	Min SuE	h	h_Greek	Eurasia
+Chamorro	Tagalog	113.7768701	XLM-R	Syntactically close	a	a_Tagalog	Papunesia
+Chamorro	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Chamorro	Indonesian	100.6702088	XLM-R	Inventorially close	c	c_Indonesian	Papunesia
+Chamorro	Mandarin	82.55667271	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Chamorro	Hebrew	84.65572829	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Chamorro	Korean	80.03410947	XLM-R	Min SuE	f	f_Korean	Papunesia
+Chamorro	Thai	101.6035852	XLM-R	Min SuE	g	g_Thai	Papunesia
+Chamorro	Greek	97.58806214	XLM-R	Min SuE	h	h_Greek	Papunesia
+Daga	Hindi	129.8504193	XLM-R	Syntactically close	a	a_Hindi	Papunesia
+Daga	Basque	92.82634764	XLM-R	Phonologically close	b	b_Basque	Papunesia
+Daga	Thai	88.97285947	XLM-R	Inventorially close	c	c_Thai	Papunesia
+Daga	Mandarin	76.56491562	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Daga	Hebrew	77.95498979	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Daga	Korean	75.31282278	XLM-R	Min SuE	f	f_Korean	Papunesia
+Daga	Thai	NA	NA	Min SuE	g	g_Thai	Papunesia
+Daga	Greek	83.44236231	XLM-R	Min SuE	h	h_Greek	Papunesia
+Fijian	Tagalog	43.92531254	XLM-R	Syntactically close	a	a_Tagalog	Papunesia
+Fijian	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Fijian	Indonesian	41.78786579	XLM-R	Inventorially close	c	c_Indonesian	Papunesia
+Fijian	Mandarin	38.00469338	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Fijian	Hebrew	38.61938359	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Fijian	Korean	36.64951351	XLM-R	Min SuE	f	f_Korean	Papunesia
+Fijian	Thai	45.68052285	XLM-R	Min SuE	g	g_Thai	Papunesia
+Fijian	Greek	37.89251741	XLM-R	Min SuE	h	h_Greek	Papunesia
+Georgian	Basque	136.3110619	XLM-R	Syntactically close	a	a_Basque	Eurasia
+Georgian	Hebrew	69.3501885	XLM-R	Phonologically close	b	b_Hebrew	Eurasia
+Georgian	Persian	113.1740782	XLM-R	Inventorially close	c	c_Persian	Eurasia
+Georgian	Mandarin	85.4691801	XLM-R	Min SuE	d	d_Mandarin	Eurasia
+Georgian	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Eurasia
+Georgian	Korean	50.81913461	XLM-R	Min SuE	f	f_Korean	Eurasia
+Georgian	Thai	66.34790978	XLM-R	Min SuE	g	g_Thai	Eurasia
+Georgian	Greek	55.56786835	XLM-R	Min SuE	h	h_Greek	Eurasia
+Guarani	Basque	85.29882098	XLM-R	Syntactically close	a	a_Basque	South America
+Guarani	Hindi	91.18306187	XLM-R	Phonologically close	b	b_Hindi	South America
+Guarani	Spanish	81.75414728	XLM-R	Inventorially close	c	c_Spanish	South America
+Guarani	Mandarin	65.16440421	XLM-R	Min SuE	d	d_Mandarin	South America
+Guarani	Hebrew	66.17121409	XLM-R	Min SuE	e	e_Hebrew	South America
+Guarani	Korean	63.93556516	XLM-R	Min SuE	f	f_Korean	South America
+Guarani	Thai	75.14022924	XLM-R	Min SuE	g	g_Thai	South America
+Guarani	Greek	71.59576832	XLM-R	Min SuE	h	h_Greek	South America
+Hausa	Thai	9.952892115	XLM-R	Syntactically close	a	a_Thai	Africa
+Hausa	Vietnamese	9.424793587	XLM-R	Phonologically close	b	b_Vietnamese	Africa
+Hausa	Indonesian	9.340101788	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Hausa	Mandarin	9.922091162	XLM-R	Min SuE	d	d_Mandarin	Africa
+Hausa	Hebrew	9.514683452	XLM-R	Min SuE	e	e_Hebrew	Africa
+Hausa	Korean	9.211103119	XLM-R	Min SuE	f	f_Korean	Africa
+Hausa	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Hausa	Greek	9.438104626	XLM-R	Min SuE	h	h_Greek	Africa
+Jakaltek	Tagalog	57.76031766	XLM-R	Syntactically close	a	a_Tagalog	North America
+Jakaltek	Basque	49.46924523	XLM-R	Phonologically close	b	b_Basque	North America
+Jakaltek	Mandarin	42.93447886	XLM-R	Inventorially close	c	c_Mandarin	North America
+Jakaltek	Mandarin	NA	NA	Min SuE	d	d_Mandarin	North America
+Jakaltek	Hebrew	42.53594278	XLM-R	Min SuE	e	e_Hebrew	North America
+Jakaltek	Korean	41.40754998	XLM-R	Min SuE	f	f_Korean	North America
+Jakaltek	Thai	47.57956556	XLM-R	Min SuE	g	g_Thai	North America
+Jakaltek	Greek	42.11228992	XLM-R	Min SuE	h	h_Greek	North America
+Kewa	Japanese	69.05742409	XLM-R	Syntactically close	a	a_Japanese	Papunesia
+Kewa	Basque	73.80224037	XLM-R	Phonologically close	b	b_Basque	Papunesia
+Kewa	Tagalog	83.23162193	XLM-R	Inventorially close	c	c_Tagalog	Papunesia
+Kewa	Mandarin	66.29049277	XLM-R	Min SuE	d	d_Mandarin	Papunesia
+Kewa	Hebrew	67.03897796	XLM-R	Min SuE	e	e_Hebrew	Papunesia
+Kewa	Korean	64.06554748	XLM-R	Min SuE	f	f_Korean	Papunesia
+Kewa	Thai	79.06524457	XLM-R	Min SuE	g	g_Thai	Papunesia
+Kewa	Greek	66.98364619	XLM-R	Min SuE	h	h_Greek	Papunesia
+Khalkha	Japanese	142.8617779	XLM-R	Syntactically close	a	a_Japanese	Eurasia
+Khalkha	English	154.6036765	XLM-R	Phonologically close	b	b_English	Eurasia
+Khalkha	Finnish	173.1786763	XLM-R	Inventorially close	c	c_Finnish	Eurasia
+Khalkha	Mandarin	145.6332097	XLM-R	Min SuE	d	d_Mandarin	Eurasia
+Khalkha	Hebrew	149.0850915	XLM-R	Min SuE	e	e_Hebrew	Eurasia
+Khalkha	Korean	139.4679792	XLM-R	Min SuE	f	f_Korean	Eurasia
+Khalkha	Thai	165.8424059	XLM-R	Min SuE	g	g_Thai	Eurasia
+Khalkha	Greek	164.5860959	XLM-R	Min SuE	h	h_Greek	Eurasia
+Khoekhoe	Russian	35.29491395	XLM-R	Syntactically close	a	a_Russian	Africa
+Khoekhoe	Japanese	31.03028442	XLM-R	Phonologically close	b	b_Japanese	Africa
+Khoekhoe	Indonesian	30.5939387	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Khoekhoe	Mandarin	32.58213823	XLM-R	Min SuE	d	d_Mandarin	Africa
+Khoekhoe	Hebrew	29.69324606	XLM-R	Min SuE	e	e_Hebrew	Africa
+Khoekhoe	Korean	27.87838429	XLM-R	Min SuE	f	f_Korean	Africa
+Khoekhoe	Thai	34.91547735	XLM-R	Min SuE	g	g_Thai	Africa
+Khoekhoe	Greek	30.1731874	XLM-R	Min SuE	h	h_Greek	Africa
+Lango	Indonesian	65.0420985	XLM-R	Syntactically close	a	a_Indonesian	Africa
+Lango	Thai	69.27641406	XLM-R	Phonologically close	b	b_Thai	Africa
+Lango	Indonesian	NA	NA	Inventorially close	c	c_Indonesian	Africa
+Lango	Mandarin	54.5945516	XLM-R	Min SuE	d	d_Mandarin	Africa
+Lango	Hebrew	57.16768876	XLM-R	Min SuE	e	e_Hebrew	Africa
+Lango	Korean	54.0565423	XLM-R	Min SuE	f	f_Korean	Africa
+Lango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Lango	Greek	57.57264275	XLM-R	Min SuE	h	h_Greek	Africa
+Malagasy	Tagalog	6.791316961	XLM-R	Syntactically close	a	a_Tagalog	Africa
+Malagasy	Indonesian	6.241350088	XLM-R	Phonologically close	b	b_Indonesian	Africa
+Malagasy	Tagalog	NA	NA	Inventorially close	c	c_Tagalog	Africa
+Malagasy	Mandarin	6.398307921	XLM-R	Min SuE	d	d_Mandarin	Africa
+Malagasy	Hebrew	6.386496279	XLM-R	Min SuE	e	e_Hebrew	Africa
+Malagasy	Korean	6.147499149	XLM-R	Min SuE	f	f_Korean	Africa
+Malagasy	Thai	6.48356588	XLM-R	Min SuE	g	g_Thai	Africa
+Malagasy	Greek	6.410310977	XLM-R	Min SuE	h	h_Greek	Africa
+Mapudungun	Hindi	80.15191466	XLM-R	Syntactically close	a	a_Hindi	South America
+Mapudungun	Tagalog	59.28058487	XLM-R	Phonologically close	b	b_Tagalog	South America
+Mapudungun	Indonesian	47.46052268	XLM-R	Inventorially close	c	c_Indonesian	South America
+Mapudungun	Mandarin	41.90387553	XLM-R	Min SuE	d	d_Mandarin	South America
+Mapudungun	Hebrew	43.39531285	XLM-R	Min SuE	e	e_Hebrew	South America
+Mapudungun	Korean	41.50823398	XLM-R	Min SuE	f	f_Korean	South America
+Mapudungun	Thai	49.17221949	XLM-R	Min SuE	g	g_Thai	South America
+Mapudungun	Greek	44.55090172	XLM-R	Min SuE	h	h_Greek	South America
+Mixtec	Tagalog	32.72874936	XLM-R	Syntactically close	a	a_Tagalog	North America
+Mixtec	Greek	18.02654035	XLM-R	Phonologically close	b	b_Greek	North America
+Mixtec	Indonesian	20.5030831	XLM-R	Inventorially close	c	c_Indonesian	North America
+Mixtec	Mandarin	17.72497206	XLM-R	Min SuE	d	d_Mandarin	North America
+Mixtec	Hebrew	17.00551102	XLM-R	Min SuE	e	e_Hebrew	North America
+Mixtec	Korean	16.12093978	XLM-R	Min SuE	f	f_Korean	North America
+Mixtec	Thai	20.10640406	XLM-R	Min SuE	g	g_Thai	North America
+Mixtec	Greek	NA	NA	Min SuE	h	h_Greek	North America
+Oromo	Basque	17.15104847	XLM-R	Syntactically close	a	a_Basque	Africa
+Oromo	Vietnamese	16.00860707	XLM-R	Phonologically close	b	b_Vietnamese	Africa
+Oromo	Indonesian	16.48135326	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Oromo	Mandarin	16.80060814	XLM-R	Min SuE	d	d_Mandarin	Africa
+Oromo	Hebrew	16.40394883	XLM-R	Min SuE	e	e_Hebrew	Africa
+Oromo	Korean	15.99277935	XLM-R	Min SuE	f	f_Korean	Africa
+Oromo	Thai	17.15670001	XLM-R	Min SuE	g	g_Thai	Africa
+Oromo	Greek	15.93633416	XLM-R	Min SuE	h	h_Greek	Africa
+Quechua	Turkish	52.35464818	XLM-R	Syntactically close	a	a_Turkish	South America
+Quechua	Greek	47.97317347	XLM-R	Phonologically close	b	b_Greek	South America
+Quechua	Spanish	46.80745317	XLM-R	Inventorially close	c	c_Spanish	South America
+Quechua	Mandarin	45.3760776	XLM-R	Min SuE	d	d_Mandarin	South America
+Quechua	Hebrew	49.05447097	XLM-R	Min SuE	e	e_Hebrew	South America
+Quechua	Korean	47.14252404	XLM-R	Min SuE	f	f_Korean	South America
+Quechua	Thai	53.50220886	XLM-R	Min SuE	g	g_Thai	South America
+Quechua	Greek	NA	NA	Min SuE	h	h_Greek	South America
+Sango	Thai	49.66848705	XLM-R	Syntactically close	a	a_Thai	Africa
+Sango	Hindi	71.74618915	XLM-R	Phonologically close	b	b_Hindi	Africa
+Sango	Indonesian	46.3594625	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Sango	Mandarin	38.94015795	XLM-R	Min SuE	d	d_Mandarin	Africa
+Sango	Hebrew	39.08433063	XLM-R	Min SuE	e	e_Hebrew	Africa
+Sango	Korean	37.46279181	XLM-R	Min SuE	f	f_Korean	Africa
+Sango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Sango	Greek	38.92228705	XLM-R	Min SuE	h	h_Greek	Africa
+Sanuma	Basque	31.57624209	XLM-R	Syntactically close	a	a_Basque	South America
+Sanuma	Hindi	43.84008838	XLM-R	Phonologically close	b	b_Hindi	South America
+Sanuma	Korean	24.8834873	XLM-R	Inventorially close	c	c_Korean	South America
+Sanuma	Mandarin	24.78692234	XLM-R	Min SuE	d	d_Mandarin	South America
+Sanuma	Hebrew	26.64274839	XLM-R	Min SuE	e	e_Hebrew	South America
+Sanuma	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Sanuma	Thai	32.74181842	XLM-R	Min SuE	g	g_Thai	South America
+Sanuma	Greek	27.01376402	XLM-R	Min SuE	h	h_Greek	South America
+Swahili	Hebrew	10.46138864	XLM-R	Syntactically close	a	a_Hebrew	Africa
+Swahili	English	10.10204989	XLM-R	Phonologically close	b	b_English	Africa
+Swahili	Indonesian	9.885104314	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Swahili	Mandarin	10.67673532	XLM-R	Min SuE	d	d_Mandarin	Africa
+Swahili	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Swahili	Korean	10.08584434	XLM-R	Min SuE	f	f_Korean	Africa
+Swahili	Thai	11.21905563	XLM-R	Min SuE	g	g_Thai	Africa
+Swahili	Greek	10.24006059	XLM-R	Min SuE	h	h_Greek	Africa
+Wichi	Basque	40.35521672	XLM-R	Syntactically close	a	a_Basque	South America
+Wichi	Korean	34.05350858	XLM-R	Phonologically close	b	b_Korean	South America
+Wichi	Tagalog	54.23134991	XLM-R	Inventorially close	c	c_Tagalog	South America
+Wichi	Mandarin	34.35702758	XLM-R	Min SuE	d	d_Mandarin	South America
+Wichi	Hebrew	35.14532392	XLM-R	Min SuE	e	e_Hebrew	South America
+Wichi	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Wichi	Thai	40.6379891	XLM-R	Min SuE	g	g_Thai	South America
+Wichi	Greek	37.28186708	XLM-R	Min SuE	h	h_Greek	South America
+Yagua	Finnish	38.53687732	XLM-R	Syntactically close	a	a_Finnish	South America
+Yagua	Japanese	34.33756528	XLM-R	Phonologically close	b	b_Japanese	South America
+Yagua	Tagalog	51.83575827	XLM-R	Inventorially close	c	c_Tagalog	South America
+Yagua	Mandarin	35.00933156	XLM-R	Min SuE	d	d_Mandarin	South America
+Yagua	Hebrew	34.84185362	XLM-R	Min SuE	e	e_Hebrew	South America
+Yagua	Korean	35.44539355	XLM-R	Min SuE	f	f_Korean	South America
+Yagua	Thai	37.00487272	XLM-R	Min SuE	g	g_Thai	South America
+Yagua	Greek	35.28722583	XLM-R	Min SuE	h	h_Greek	South America
+Yaqui	Hindi	61.26022751	XLM-R	Syntactically close	a	a_Hindi	North America
+Yaqui	Thai	41.11343663	XLM-R	Phonologically close	b	b_Thai	North America
+Yaqui	Tagalog	50.76658571	XLM-R	Inventorially close	c	c_Tagalog	North America
+Yaqui	Mandarin	35.30240885	XLM-R	Min SuE	d	d_Mandarin	North America
+Yaqui	Hebrew	37.31709505	XLM-R	Min SuE	e	e_Hebrew	North America
+Yaqui	Korean	36.17739237	XLM-R	Min SuE	f	f_Korean	North America
+Yaqui	Thai	NA	NA	Min SuE	g	g_Thai	North America
+Yaqui	Greek	37.54714543	XLM-R	Min SuE	h	h_Greek	North America
+Yoruba	Thai	26.98442356	XLM-R	Syntactically close	a	a_Thai	Africa
+Yoruba	Basque	26.56974436	XLM-R	Phonologically close	b	b_Basque	Africa
+Yoruba	Indonesian	27.22218186	XLM-R	Inventorially close	c	c_Indonesian	Africa
+Yoruba	Mandarin	23.81438445	XLM-R	Min SuE	d	d_Mandarin	Africa
+Yoruba	Hebrew	23.02823232	XLM-R	Min SuE	e	e_Hebrew	Africa
+Yoruba	Korean	21.6415841	XLM-R	Min SuE	f	f_Korean	Africa
+Yoruba	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Yoruba	Greek	25.49965413	XLM-R	Min SuE	h	h_Greek	Africa
+Alamblak	Hindi	3.803305626	mT5	Syntactically close	a	a_Hindi	Papunesia
+Alamblak	Basque	3.802940178	mT5	Phonologically close	b	b_Basque	Papunesia
+Alamblak	Indonesian	3.706408978	mT5	Inventorially close	c	c_Indonesian	Papunesia
+Alamblak	Mandarin	3.681996393	mT5	Min SuE	d	d_Mandarin	Papunesia
+Alamblak	Hebrew	3.789125061	mT5	Min SuE	e	e_Hebrew	Papunesia
+Alamblak	Korean	3.694723749	mT5	Min SuE	f	f_Korean	Papunesia
+Alamblak	Thai	3.6640275	mT5	Min SuE	g	g_Thai	Papunesia
+Alamblak	Greek	3.659082699	mT5	Min SuE	h	h_Greek	Papunesia
+Amele	Basque	3.689069414	mT5	Syntactically close	a	a_Basque	Papunesia
+Amele	Basque	NA	NA	Phonologically close	b	b_Basque	Papunesia
+Amele	Tagalog	3.656438303	mT5	Inventorially close	c	c_Tagalog	Papunesia
+Amele	Mandarin	3.543251562	mT5	Min SuE	d	d_Mandarin	Papunesia
+Amele	Hebrew	3.663903809	mT5	Min SuE	e	e_Hebrew	Papunesia
+Amele	Korean	3.523417425	mT5	Min SuE	f	f_Korean	Papunesia
+Amele	Thai	3.525246716	mT5	Min SuE	g	g_Thai	Papunesia
+Amele	Greek	3.505058718	mT5	Min SuE	h	h_Greek	Papunesia
+Apurina	Basque	3.148641682	mT5	Syntactically close	a	a_Basque	South America
+Apurina	Hindi	3.198923922	mT5	Phonologically close	b	b_Hindi	South America
+Apurina	Tagalog	3.189316273	mT5	Inventorially close	c	c_Tagalog	South America
+Apurina	Mandarin	3.064105844	mT5	Min SuE	d	d_Mandarin	South America
+Apurina	Hebrew	3.1741817	mT5	Min SuE	e	e_Hebrew	South America
+Apurina	Korean	3.060616302	mT5	Min SuE	f	f_Korean	South America
+Apurina	Thai	3.052244091	mT5	Min SuE	g	g_Thai	South America
+Apurina	Greek	3.037719679	mT5	Min SuE	h	h_Greek	South America
+Arabic	Hebrew	1.1079777	mT5	Syntactically close	a	a_Hebrew	Africa
+Arabic	Hebrew	NA	NA	Phonologically close	b	b_Hebrew	Africa
+Arabic	Persian	1.041104048	mT5	Inventorially close	c	c_Persian	Africa
+Arabic	Mandarin	1.117337084	mT5	Min SuE	d	d_Mandarin	Africa
+Arabic	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Arabic	Korean	1.088847327	mT5	Min SuE	f	f_Korean	Africa
+Arabic	Thai	1.055349922	mT5	Min SuE	g	g_Thai	Africa
+Arabic	Greek	1.035427499	mT5	Min SuE	h	h_Greek	Africa
+Arapesh	Spanish	3.540210247	mT5	Syntactically close	a	a_Spanish	Papunesia
+Arapesh	Basque	3.637433815	mT5	Phonologically close	b	b_Basque	Papunesia
+Arapesh	Tagalog	3.612344074	mT5	Inventorially close	c	c_Tagalog	Papunesia
+Arapesh	Mandarin	3.521223545	mT5	Min SuE	d	d_Mandarin	Papunesia
+Arapesh	Hebrew	3.626716518	mT5	Min SuE	e	e_Hebrew	Papunesia
+Arapesh	Korean	3.537020445	mT5	Min SuE	f	f_Korean	Papunesia
+Arapesh	Thai	3.522933388	mT5	Min SuE	g	g_Thai	Papunesia
+Arapesh	Greek	3.473444176	mT5	Min SuE	h	h_Greek	Papunesia
+Barasano	Turkish	2.69372716	mT5	Syntactically close	a	a_Turkish	South America
+Barasano	Hindi	2.755611324	mT5	Phonologically close	b	b_Hindi	South America
+Barasano	Tagalog	2.811404181	mT5	Inventorially close	c	c_Tagalog	South America
+Barasano	Mandarin	2.665164328	mT5	Min SuE	d	d_Mandarin	South America
+Barasano	Hebrew	2.77826457	mT5	Min SuE	e	e_Hebrew	South America
+Barasano	Korean	2.66873455	mT5	Min SuE	f	f_Korean	South America
+Barasano	Thai	2.643835211	mT5	Min SuE	g	g_Thai	South America
+Barasano	Greek	2.632473135	mT5	Min SuE	h	h_Greek	South America
+Burmese	Korean	2.014494205	mT5	Syntactically close	a	a_Korean	Eurasia
+Burmese	Thai	2.033882165	mT5	Phonologically close	b	b_Thai	Eurasia
+Burmese	English	1.951196074	mT5	Inventorially close	c	c_English	Eurasia
+Burmese	Mandarin	2.041348171	mT5	Min SuE	d	d_Mandarin	Eurasia
+Burmese	Hebrew	2.057880402	mT5	Min SuE	e	e_Hebrew	Eurasia
+Burmese	Korean	NA	NA	Min SuE	f	f_Korean	Eurasia
+Burmese	Thai	NA	NA	Min SuE	g	g_Thai	Eurasia
+Burmese	Greek	1.93141439	mT5	Min SuE	h	h_Greek	Eurasia
+Chamorro	Tagalog	3.72659483	mT5	Syntactically close	a	a_Tagalog	Papunesia
+Chamorro	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Chamorro	Indonesian	3.645715523	mT5	Inventorially close	c	c_Indonesian	Papunesia
+Chamorro	Mandarin	3.650952101	mT5	Min SuE	d	d_Mandarin	Papunesia
+Chamorro	Hebrew	3.763390207	mT5	Min SuE	e	e_Hebrew	Papunesia
+Chamorro	Korean	3.636553526	mT5	Min SuE	f	f_Korean	Papunesia
+Chamorro	Thai	3.6269876	mT5	Min SuE	g	g_Thai	Papunesia
+Chamorro	Greek	3.637028074	mT5	Min SuE	h	h_Greek	Papunesia
+Daga	Hindi	3.901750135	mT5	Syntactically close	a	a_Hindi	Papunesia
+Daga	Basque	3.899781609	mT5	Phonologically close	b	b_Basque	Papunesia
+Daga	Thai	3.741287279	mT5	Inventorially close	c	c_Thai	Papunesia
+Daga	Mandarin	3.756028938	mT5	Min SuE	d	d_Mandarin	Papunesia
+Daga	Hebrew	3.882734299	mT5	Min SuE	e	e_Hebrew	Papunesia
+Daga	Korean	3.759754372	mT5	Min SuE	f	f_Korean	Papunesia
+Daga	Thai	NA	NA	Min SuE	g	g_Thai	Papunesia
+Daga	Greek	3.72580905	mT5	Min SuE	h	h_Greek	Papunesia
+Fijian	Tagalog	2.672494555	mT5	Syntactically close	a	a_Tagalog	Papunesia
+Fijian	Tagalog	NA	NA	Phonologically close	b	b_Tagalog	Papunesia
+Fijian	Indonesian	2.588882732	mT5	Inventorially close	c	c_Indonesian	Papunesia
+Fijian	Mandarin	2.613667345	mT5	Min SuE	d	d_Mandarin	Papunesia
+Fijian	Hebrew	2.664279938	mT5	Min SuE	e	e_Hebrew	Papunesia
+Fijian	Korean	2.55410614	mT5	Min SuE	f	f_Korean	Papunesia
+Fijian	Thai	2.525509357	mT5	Min SuE	g	g_Thai	Papunesia
+Fijian	Greek	2.503586626	mT5	Min SuE	h	h_Greek	Papunesia
+Georgian	Basque	3.592941952	mT5	Syntactically close	a	a_Basque	Eurasia
+Georgian	Hebrew	3.873958588	mT5	Phonologically close	b	b_Hebrew	Eurasia
+Georgian	Persian	3.601203978	mT5	Inventorially close	c	c_Persian	Eurasia
+Georgian	Mandarin	3.716598272	mT5	Min SuE	d	d_Mandarin	Eurasia
+Georgian	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Eurasia
+Georgian	Korean	3.534535217	mT5	Min SuE	f	f_Korean	Eurasia
+Georgian	Thai	3.56578455	mT5	Min SuE	g	g_Thai	Eurasia
+Georgian	Greek	3.589266491	mT5	Min SuE	h	h_Greek	Eurasia
+Guarani	Basque	3.38618083	mT5	Syntactically close	a	a_Basque	South America
+Guarani	Hindi	3.366025114	mT5	Phonologically close	b	b_Hindi	South America
+Guarani	Spanish	3.287478161	mT5	Inventorially close	c	c_Spanish	South America
+Guarani	Mandarin	3.262150669	mT5	Min SuE	d	d_Mandarin	South America
+Guarani	Hebrew	3.392163706	mT5	Min SuE	e	e_Hebrew	South America
+Guarani	Korean	3.228127241	mT5	Min SuE	f	f_Korean	South America
+Guarani	Thai	3.226795101	mT5	Min SuE	g	g_Thai	South America
+Guarani	Greek	3.231796885	mT5	Min SuE	h	h_Greek	South America
+Hausa	Thai	2.133413887	mT5	Syntactically close	a	a_Thai	Africa
+Hausa	Vietnamese	2.239328957	mT5	Phonologically close	b	b_Vietnamese	Africa
+Hausa	Indonesian	2.210157156	mT5	Inventorially close	c	c_Indonesian	Africa
+Hausa	Mandarin	2.241862965	mT5	Min SuE	d	d_Mandarin	Africa
+Hausa	Hebrew	2.292998552	mT5	Min SuE	e	e_Hebrew	Africa
+Hausa	Korean	2.16583395	mT5	Min SuE	f	f_Korean	Africa
+Hausa	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Hausa	Greek	2.139698648	mT5	Min SuE	h	h_Greek	Africa
+Jakaltek	Tagalog	3.558809519	mT5	Syntactically close	a	a_Tagalog	North America
+Jakaltek	Basque	3.543100357	mT5	Phonologically close	b	b_Basque	North America
+Jakaltek	Mandarin	3.397130775	mT5	Inventorially close	c	c_Mandarin	North America
+Jakaltek	Mandarin	NA	NA	Min SuE	d	d_Mandarin	North America
+Jakaltek	Hebrew	3.4942523	mT5	Min SuE	e	e_Hebrew	North America
+Jakaltek	Korean	3.409990454	mT5	Min SuE	f	f_Korean	North America
+Jakaltek	Thai	3.406140709	mT5	Min SuE	g	g_Thai	North America
+Jakaltek	Greek	3.381161165	mT5	Min SuE	h	h_Greek	North America
+Kewa	Japanese	3.624637508	mT5	Syntactically close	a	a_Japanese	Papunesia
+Kewa	Basque	3.754535389	mT5	Phonologically close	b	b_Basque	Papunesia
+Kewa	Tagalog	3.734721375	mT5	Inventorially close	c	c_Tagalog	Papunesia
+Kewa	Mandarin	3.652876949	mT5	Min SuE	d	d_Mandarin	Papunesia
+Kewa	Hebrew	3.743242455	mT5	Min SuE	e	e_Hebrew	Papunesia
+Kewa	Korean	3.643940783	mT5	Min SuE	f	f_Korean	Papunesia
+Kewa	Thai	3.61440835	mT5	Min SuE	g	g_Thai	Papunesia
+Kewa	Greek	3.606656885	mT5	Min SuE	h	h_Greek	Papunesia
+Khalkha	Japanese	3.352811766	mT5	Syntactically close	a	a_Japanese	Eurasia
+Khalkha	English	3.375544262	mT5	Phonologically close	b	b_English	Eurasia
+Khalkha	Finnish	3.438901711	mT5	Inventorially close	c	c_Finnish	Eurasia
+Khalkha	Mandarin	3.373293114	mT5	Min SuE	d	d_Mandarin	Eurasia
+Khalkha	Hebrew	3.476634073	mT5	Min SuE	e	e_Hebrew	Eurasia
+Khalkha	Korean	3.360917425	mT5	Min SuE	f	f_Korean	Eurasia
+Khalkha	Thai	3.329180956	mT5	Min SuE	g	g_Thai	Eurasia
+Khalkha	Greek	3.318166161	mT5	Min SuE	h	h_Greek	Eurasia
+Khoekhoe	Russian	3.049115896	mT5	Syntactically close	a	a_Russian	Africa
+Khoekhoe	Japanese	3.123168659	mT5	Phonologically close	b	b_Japanese	Africa
+Khoekhoe	Indonesian	3.133103132	mT5	Inventorially close	c	c_Indonesian	Africa
+Khoekhoe	Mandarin	3.11427002	mT5	Min SuE	d	d_Mandarin	Africa
+Khoekhoe	Hebrew	3.284747553	mT5	Min SuE	e	e_Hebrew	Africa
+Khoekhoe	Korean	3.134468651	mT5	Min SuE	f	f_Korean	Africa
+Khoekhoe	Thai	3.133839321	mT5	Min SuE	g	g_Thai	Africa
+Khoekhoe	Greek	3.107347012	mT5	Min SuE	h	h_Greek	Africa
+Lango	Indonesian	3.635064697	mT5	Syntactically close	a	a_Indonesian	Africa
+Lango	Thai	3.571908951	mT5	Phonologically close	b	b_Thai	Africa
+Lango	Indonesian	NA	NA	Inventorially close	c	c_Indonesian	Africa
+Lango	Mandarin	3.59601779	mT5	Min SuE	d	d_Mandarin	Africa
+Lango	Hebrew	3.699673605	mT5	Min SuE	e	e_Hebrew	Africa
+Lango	Korean	3.592683983	mT5	Min SuE	f	f_Korean	Africa
+Lango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Lango	Greek	3.566990185	mT5	Min SuE	h	h_Greek	Africa
+Malagasy	Tagalog	1.89707818	mT5	Syntactically close	a	a_Tagalog	Africa
+Malagasy	Indonesian	1.831473041	mT5	Phonologically close	b	b_Indonesian	Africa
+Malagasy	Tagalog	NA	NA	Inventorially close	c	c_Tagalog	Africa
+Malagasy	Mandarin	1.853317189	mT5	Min SuE	d	d_Mandarin	Africa
+Malagasy	Hebrew	1.885425067	mT5	Min SuE	e	e_Hebrew	Africa
+Malagasy	Korean	1.809244037	mT5	Min SuE	f	f_Korean	Africa
+Malagasy	Thai	1.774851656	mT5	Min SuE	g	g_Thai	Africa
+Malagasy	Greek	1.750254822	mT5	Min SuE	h	h_Greek	Africa
+Mapudungun	Hindi	3.704233265	mT5	Syntactically close	a	a_Hindi	South America
+Mapudungun	Tagalog	3.718584871	mT5	Phonologically close	b	b_Tagalog	South America
+Mapudungun	Indonesian	3.604028511	mT5	Inventorially close	c	c_Indonesian	South America
+Mapudungun	Mandarin	3.569570732	mT5	Min SuE	d	d_Mandarin	South America
+Mapudungun	Hebrew	3.69218092	mT5	Min SuE	e	e_Hebrew	South America
+Mapudungun	Korean	3.580425692	mT5	Min SuE	f	f_Korean	South America
+Mapudungun	Thai	3.574215174	mT5	Min SuE	g	g_Thai	South America
+Mapudungun	Greek	3.557107592	mT5	Min SuE	h	h_Greek	South America
+Mixtec	Tagalog	2.950511408	mT5	Syntactically close	a	a_Tagalog	North America
+Mixtec	Greek	2.656107235	mT5	Phonologically close	b	b_Greek	North America
+Mixtec	Indonesian	2.694647312	mT5	Inventorially close	c	c_Indonesian	North America
+Mixtec	Mandarin	2.685886812	mT5	Min SuE	d	d_Mandarin	North America
+Mixtec	Hebrew	2.747959185	mT5	Min SuE	e	e_Hebrew	North America
+Mixtec	Korean	2.705251408	mT5	Min SuE	f	f_Korean	North America
+Mixtec	Thai	2.678571081	mT5	Min SuE	g	g_Thai	North America
+Mixtec	Greek	NA	NA	Min SuE	h	h_Greek	North America
+Oromo	Basque	3.15661459	mT5	Syntactically close	a	a_Basque	Africa
+Oromo	Vietnamese	3.098005629	mT5	Phonologically close	b	b_Vietnamese	Africa
+Oromo	Indonesian	3.086091757	mT5	Inventorially close	c	c_Indonesian	Africa
+Oromo	Mandarin	3.076322269	mT5	Min SuE	d	d_Mandarin	Africa
+Oromo	Hebrew	3.150054455	mT5	Min SuE	e	e_Hebrew	Africa
+Oromo	Korean	3.026194286	mT5	Min SuE	f	f_Korean	Africa
+Oromo	Thai	3.026962328	mT5	Min SuE	g	g_Thai	Africa
+Oromo	Greek	3.02007575	mT5	Min SuE	h	h_Greek	Africa
+Quechua	Turkish	3.194779634	mT5	Syntactically close	a	a_Turkish	South America
+Quechua	Greek	3.074091339	mT5	Phonologically close	b	b_Greek	South America
+Quechua	Spanish	3.171518898	mT5	Inventorially close	c	c_Spanish	South America
+Quechua	Mandarin	3.134633017	mT5	Min SuE	d	d_Mandarin	South America
+Quechua	Hebrew	3.244945717	mT5	Min SuE	e	e_Hebrew	South America
+Quechua	Korean	3.133422947	mT5	Min SuE	f	f_Korean	South America
+Quechua	Thai	3.111240482	mT5	Min SuE	g	g_Thai	South America
+Quechua	Greek	NA	NA	Min SuE	h	h_Greek	South America
+Sango	Thai	2.199905682	mT5	Syntactically close	a	a_Thai	Africa
+Sango	Hindi	2.282313919	mT5	Phonologically close	b	b_Hindi	Africa
+Sango	Indonesian	2.23498702	mT5	Inventorially close	c	c_Indonesian	Africa
+Sango	Mandarin	2.278096676	mT5	Min SuE	d	d_Mandarin	Africa
+Sango	Hebrew	2.363578844	mT5	Min SuE	e	e_Hebrew	Africa
+Sango	Korean	2.245672035	mT5	Min SuE	f	f_Korean	Africa
+Sango	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Sango	Greek	2.203075743	mT5	Min SuE	h	h_Greek	Africa
+Sanuma	Basque	2.741619205	mT5	Syntactically close	a	a_Basque	South America
+Sanuma	Hindi	2.770150328	mT5	Phonologically close	b	b_Hindi	South America
+Sanuma	Korean	2.65762434	mT5	Inventorially close	c	c_Korean	South America
+Sanuma	Mandarin	2.665030622	mT5	Min SuE	d	d_Mandarin	South America
+Sanuma	Hebrew	2.757103252	mT5	Min SuE	e	e_Hebrew	South America
+Sanuma	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Sanuma	Thai	2.671386337	mT5	Min SuE	g	g_Thai	South America
+Sanuma	Greek	2.645229959	mT5	Min SuE	h	h_Greek	South America
+Swahili	Hebrew	2.377528858	mT5	Syntactically close	a	a_Hebrew	Africa
+Swahili	English	2.264210892	mT5	Phonologically close	b	b_English	Africa
+Swahili	Indonesian	2.327437115	mT5	Inventorially close	c	c_Indonesian	Africa
+Swahili	Mandarin	2.312975264	mT5	Min SuE	d	d_Mandarin	Africa
+Swahili	Hebrew	NA	NA	Min SuE	e	e_Hebrew	Africa
+Swahili	Korean	2.25667038	mT5	Min SuE	f	f_Korean	Africa
+Swahili	Thai	2.213928223	mT5	Min SuE	g	g_Thai	Africa
+Swahili	Greek	2.210638237	mT5	Min SuE	h	h_Greek	Africa
+Wichi	Basque	3.219480848	mT5	Syntactically close	a	a_Basque	South America
+Wichi	Korean	3.10457449	mT5	Phonologically close	b	b_Korean	South America
+Wichi	Tagalog	3.258739805	mT5	Inventorially close	c	c_Tagalog	South America
+Wichi	Mandarin	3.110311604	mT5	Min SuE	d	d_Mandarin	South America
+Wichi	Hebrew	3.193622923	mT5	Min SuE	e	e_Hebrew	South America
+Wichi	Korean	NA	NA	Min SuE	f	f_Korean	South America
+Wichi	Thai	3.094685507	mT5	Min SuE	g	g_Thai	South America
+Wichi	Greek	3.067313671	mT5	Min SuE	h	h_Greek	South America
+Yagua	Finnish	3.255096054	mT5	Syntactically close	a	a_Finnish	South America
+Yagua	Japanese	3.184699059	mT5	Phonologically close	b	b_Japanese	South America
+Yagua	Tagalog	3.453537464	mT5	Inventorially close	c	c_Tagalog	South America
+Yagua	Mandarin	3.169919825	mT5	Min SuE	d	d_Mandarin	South America
+Yagua	Hebrew	3.2522223	mT5	Min SuE	e	e_Hebrew	South America
+Yagua	Korean	3.185963297	mT5	Min SuE	f	f_Korean	South America
+Yagua	Thai	3.174884462	mT5	Min SuE	g	g_Thai	South America
+Yagua	Greek	3.140186071	mT5	Min SuE	h	h_Greek	South America
+Yaqui	Hindi	3.472152901	mT5	Syntactically close	a	a_Hindi	North America
+Yaqui	Thai	3.380705023	mT5	Phonologically close	b	b_Thai	North America
+Yaqui	Tagalog	3.485522175	mT5	Inventorially close	c	c_Tagalog	North America
+Yaqui	Mandarin	3.408519363	mT5	Min SuE	d	d_Mandarin	North America
+Yaqui	Hebrew	3.486863995	mT5	Min SuE	e	e_Hebrew	North America
+Yaqui	Korean	3.398181105	mT5	Min SuE	f	f_Korean	North America
+Yaqui	Thai	NA	NA	Min SuE	g	g_Thai	North America
+Yaqui	Greek	3.373979282	mT5	Min SuE	h	h_Greek	North America
+Yoruba	Thai	1.975709534	mT5	Syntactically close	a	a_Thai	Africa
+Yoruba	Basque	1.991229367	mT5	Phonologically close	b	b_Basque	Africa
+Yoruba	Indonesian	1.99521246	mT5	Inventorially close	c	c_Indonesian	Africa
+Yoruba	Mandarin	2.046425104	mT5	Min SuE	d	d_Mandarin	Africa
+Yoruba	Hebrew	2.071849465	mT5	Min SuE	e	e_Hebrew	Africa
+Yoruba	Korean	1.984641504	mT5	Min SuE	f	f_Korean	Africa
+Yoruba	Thai	NA	NA	Min SuE	g	g_Thai	Africa
+Yoruba	Greek	1.954998922	mT5	Min SuE	h	h_Greek	Africa

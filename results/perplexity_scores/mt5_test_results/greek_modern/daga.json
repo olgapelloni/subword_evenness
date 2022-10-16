@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.4526641070842743, "eval_lang": "daga", "eval_loss": 3.7408361434936523, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.44749683141708374, "eval_lang": "daga", "eval_loss": 3.7556896209716797, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.46603652834892273, "eval_lang": "daga", "eval_loss": 3.6968882083892822, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.4639073312282562, "eval_lang": "daga", "eval_loss": 3.690190553665161, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.4447444975376129, "eval_lang": "daga", "eval_loss": 3.745440721511841, "eval_model": "../mt5_models/greek_modern/5"}

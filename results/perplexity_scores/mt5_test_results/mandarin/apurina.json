@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5338645577430725, "eval_lang": "apurina", "eval_loss": 3.026148796081543, "eval_model": "../mt5_models/mandarin/1"}
+{"eval_accuracy": 0.5373896956443787, "eval_lang": "apurina", "eval_loss": 3.0130181312561035, "eval_model": "../mt5_models/mandarin/2"}
+{"eval_accuracy": 0.514651894569397, "eval_lang": "apurina", "eval_loss": 3.1904959678649902, "eval_model": "../mt5_models/mandarin/3"}
+{"eval_accuracy": 0.5355854034423828, "eval_lang": "apurina", "eval_loss": 3.0329430103302, "eval_model": "../mt5_models/mandarin/4"}
+{"eval_accuracy": 0.5301724076271057, "eval_lang": "apurina", "eval_loss": 3.0579233169555664, "eval_model": "../mt5_models/mandarin/5"}

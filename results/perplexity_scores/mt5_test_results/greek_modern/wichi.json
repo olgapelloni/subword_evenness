@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5312693119049072, "eval_lang": "wichi", "eval_loss": 3.0708677768707275, "eval_model": "../mt5_models/greek_modern/1"}
+{"eval_accuracy": 0.5268627405166626, "eval_lang": "wichi", "eval_loss": 3.0953376293182373, "eval_model": "../mt5_models/greek_modern/2"}
+{"eval_accuracy": 0.5406211614608765, "eval_lang": "wichi", "eval_loss": 3.047990083694458, "eval_model": "../mt5_models/greek_modern/3"}
+{"eval_accuracy": 0.5398514866828918, "eval_lang": "wichi", "eval_loss": 3.036128520965576, "eval_model": "../mt5_models/greek_modern/4"}
+{"eval_accuracy": 0.5274399518966675, "eval_lang": "wichi", "eval_loss": 3.0862443447113037, "eval_model": "../mt5_models/greek_modern/5"}

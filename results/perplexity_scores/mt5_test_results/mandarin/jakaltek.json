@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.508299708366394, "eval_lang": "jakaltek", "eval_loss": 3.3575730323791504, "eval_model": "../mt5_models/mandarin/1"}
+{"eval_accuracy": 0.5085748434066772, "eval_lang": "jakaltek", "eval_loss": 3.356109619140625, "eval_model": "../mt5_models/mandarin/2"}
+{"eval_accuracy": 0.48924705386161804, "eval_lang": "jakaltek", "eval_loss": 3.5106070041656494, "eval_model": "../mt5_models/mandarin/3"}
+{"eval_accuracy": 0.5065343379974365, "eval_lang": "jakaltek", "eval_loss": 3.3736326694488525, "eval_model": "../mt5_models/mandarin/4"}
+{"eval_accuracy": 0.5019029378890991, "eval_lang": "jakaltek", "eval_loss": 3.3877315521240234, "eval_model": "../mt5_models/mandarin/5"}

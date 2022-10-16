@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.47123590111732483, "eval_lang": "khalkha", "eval_loss": 3.3369197845458984, "eval_model": "../mt5_models/english/1"}
+{"eval_accuracy": 0.4577714204788208, "eval_lang": "khalkha", "eval_loss": 3.435232639312744, "eval_model": "../mt5_models/english/2"}
+{"eval_accuracy": 0.4645356833934784, "eval_lang": "khalkha", "eval_loss": 3.3786416053771973, "eval_model": "../mt5_models/english/3"}
+{"eval_accuracy": 0.47287896275520325, "eval_lang": "khalkha", "eval_loss": 3.359971284866333, "eval_model": "../mt5_models/english/4"}
+{"eval_accuracy": 0.4687606394290924, "eval_lang": "khalkha", "eval_loss": 3.3669559955596924, "eval_model": "../mt5_models/english/5"}

@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.45307958126068115, "eval_lang": "daga", "eval_loss": 3.8205020427703857, "eval_model": "../mt5_models/basque/1"}
+{"eval_accuracy": 0.3964998126029968, "eval_lang": "daga", "eval_loss": 4.184833526611328, "eval_model": "../mt5_models/basque/2"}
+{"eval_accuracy": 0.436772882938385, "eval_lang": "daga", "eval_loss": 3.8993337154388428, "eval_model": "../mt5_models/basque/3"}
+{"eval_accuracy": 0.45206689834594727, "eval_lang": "daga", "eval_loss": 3.830188274383545, "eval_model": "../mt5_models/basque/4"}
+{"eval_accuracy": 0.4591555595397949, "eval_lang": "daga", "eval_loss": 3.7640504837036133, "eval_model": "../mt5_models/basque/5"}

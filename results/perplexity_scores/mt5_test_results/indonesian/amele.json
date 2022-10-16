@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.49895793199539185, "eval_lang": "amele", "eval_loss": 3.550265312194824, "eval_model": "../mt5_models/indonesian/1"}
+{"eval_accuracy": 0.49853163957595825, "eval_lang": "amele", "eval_loss": 3.6003036499023438, "eval_model": "../mt5_models/indonesian/2"}
+{"eval_accuracy": 0.4754878878593445, "eval_lang": "amele", "eval_loss": 3.738661050796509, "eval_model": "../mt5_models/indonesian/3"}
+{"eval_accuracy": 0.5057076215744019, "eval_lang": "amele", "eval_loss": 3.547877788543701, "eval_model": "../mt5_models/indonesian/4"}
+{"eval_accuracy": 0.5099943280220032, "eval_lang": "amele", "eval_loss": 3.4916067123413086, "eval_model": "../mt5_models/indonesian/5"}

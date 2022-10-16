@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5827646255493164, "eval_lang": "hausa", "eval_loss": 2.1532063484191895, "eval_model": "../mt5_models/korean/1"}
+{"eval_accuracy": 0.5828244686126709, "eval_lang": "hausa", "eval_loss": 2.158174514770508, "eval_model": "../mt5_models/korean/2"}
+{"eval_accuracy": 0.5744732022285461, "eval_lang": "hausa", "eval_loss": 2.2078158855438232, "eval_model": "../mt5_models/korean/3"}
+{"eval_accuracy": 0.5880926847457886, "eval_lang": "hausa", "eval_loss": 2.1311709880828857, "eval_model": "../mt5_models/korean/4"}
+{"eval_accuracy": 0.576508641242981, "eval_lang": "hausa", "eval_loss": 2.178802013397217, "eval_model": "../mt5_models/korean/5"}

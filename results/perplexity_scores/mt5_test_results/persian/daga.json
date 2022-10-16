@@ -1,0 +1,4 @@
+{"eval_accuracy": 0.45211881399154663, "eval_lang": "daga", "eval_loss": 3.691763401031494, "eval_model": "../mt5_models/persian/1"}
+{"eval_accuracy": 0.4390060007572174, "eval_lang": "daga", "eval_loss": 3.7944107055664062, "eval_model": "../mt5_models/persian/2"}
+{"eval_accuracy": 0.4491586983203888, "eval_lang": "daga", "eval_loss": 3.6992251873016357, "eval_model": "../mt5_models/persian/3"}
+{"eval_accuracy": 0.4333454668521881, "eval_lang": "daga", "eval_loss": 3.797077178955078, "eval_model": "../mt5_models/persian/5"}

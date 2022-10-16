@@ -1,0 +1,4 @@
+{"eval_accuracy": 0.5000710487365723, "eval_lang": "amele", "eval_loss": 3.475198984146118, "eval_model": "../mt5_models/persian/1"}
+{"eval_accuracy": 0.48425066471099854, "eval_lang": "amele", "eval_loss": 3.6126012802124023, "eval_model": "../mt5_models/persian/2"}
+{"eval_accuracy": 0.49798694252967834, "eval_lang": "amele", "eval_loss": 3.4894301891326904, "eval_model": "../mt5_models/persian/3"}
+{"eval_accuracy": 0.479087769985199, "eval_lang": "amele", "eval_loss": 3.607154369354248, "eval_model": "../mt5_models/persian/5"}

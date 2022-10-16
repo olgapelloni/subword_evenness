@@ -1,0 +1,5 @@
+{"eval_accuracy": 0.5143604278564453, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7648725509643555, "eval_model": "../mt5_models/turkish/1"}
+{"eval_accuracy": 0.5246085524559021, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.572705030441284, "eval_model": "../mt5_models/turkish/2"}
+{"eval_accuracy": 0.5051020383834839, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7505578994750977, "eval_model": "../mt5_models/turkish/3"}
+{"eval_accuracy": 0.5093023777008057, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.7261173725128174, "eval_model": "../mt5_models/turkish/4"}
+{"eval_accuracy": 0.5002418756484985, "eval_lang": "mixtec_chalcatongo", "eval_loss": 2.737555503845215, "eval_model": "../mt5_models/turkish/5"}
