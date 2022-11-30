@@ -123,6 +123,7 @@ def main():
                         file_segm = '../train/bpe-min-r/' + file[:-9] + '_segmented.txt'
 
                         # the number 200 has to be adjusted to different languages
+                        # the suggested number of BPE merges based on min redundancy is listed in num_bpe_merges.tsv
                         learn_line = 'subword-nmt learn-bpe -s 200 < ' + \
                                      os.path.join(root, file) + ' > ' + file_codes
                         apply_line = 'subword-nmt apply-bpe -c ' + file_codes + \
