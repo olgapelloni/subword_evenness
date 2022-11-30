@@ -16,4 +16,4 @@ Links to our datasets:
 
 ## Scripts
 
-Most of the scripts are done by [Anastassia Shaitarova](https://github.com/shaitarAn) and me. Scripts for continuous training/fine-tuning are taken and adapted from [HuggingFace](https://github.com/huggingface). Scripts for measuring TTR and unigram entropy come from [Ximena Gutierrez](https://github.com/ximenina).
+Most of the scripts are done by [Anastassia Shaitarova](https://github.com/shaitarAn) and me. Scripts for continuous training/fine-tuning are taken and adapted from [HuggingFace](https://github.com/huggingface). Scripts for measuring TTR and unigram entropy come from [Ximena Gutierrez-Vasques](https://github.com/ximenina). The number of BPE merges is calculated following the minimum redundancy approach [(Gutierrez-Vasques et al. 2021)](https://aclanthology.org/2021.eacl-main.302/) and using the scripts from the [paper repository](https://github.com/ximenina/theturningpoint). The resulting numbers of merges used for monolingual training on the 19 transfer languages are listed in the file ```measures_scripts/sue/num_bpe_merges.tsv```
