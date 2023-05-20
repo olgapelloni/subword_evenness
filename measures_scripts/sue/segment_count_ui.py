@@ -147,6 +147,9 @@ def main():
                     segmented_file = os.path.join('../train/' + mode + '/' + file[:-9] + '_segmented.txt')
                     print(segmented_file)
 
+                    substituted_file = os.path.join('../train/' + mode + '/' + file[:-9] + '_substituted.txt')
+                    results_file = os.path.join('../train/' + mode + '/' + file[:-9] + '_results.csv')
+
                     if mode == 'bpe-min-r':
                         clump_bpe(segmented_file, substituted_file)
 
