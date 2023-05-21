@@ -109,33 +109,53 @@ def find_files(start, pattern):
     return all_lang_results
 
 
+def preprocess(filename):
+    with open(filename, 'r') as f:
+        result_fpath = filename.replace('_full', '_tokenized')
+        with open(result_fpath, 'w') as f_result:
+            for text_line in f:
+                text_line = text_line.strip()
+                removed_punct_line = remove_punctuation(text_line)
+                # simple tokenization, in case polyglot.text doesn't work
+                # tokenized_line = removed_punct_line.split(' ')
+                tokenized_line = tokenize(removed_punct_line)
+                if len(tokenized_line) > 0:
+                    for token in tokenized_line:
+                        if token != '\n' and token != '\r\n' and token != '\r':
+                            f_result.write(token.lower().strip() + '\n')
+    return result_fpath
+
+
 def main():
     # generate sh files for BPE
     print('BPE-MIN-R')
-    
+
     with open('../train/bpe-min-r/learn-bpe.sh', 'w') as f_learn_bpe:
         with open('../train/bpe-min-r/apply-bpe.sh', 'w') as f_apply_bpe:
             for root, dirs, files in os.walk('../train/'):
                 for file in files:
                     if file.endswith('full.txt'):
                         print(file)
+
+                        # preprocess, tokenize
+                        tokenized_file = preprocess(os.path.join(root, file))
+
                         file_codes = '../train/bpe-min-r/' + file[:-9] + '_codes.txt'
                         file_segm = '../train/bpe-min-r/' + file[:-9] + '_segmented.txt'
 
                         # the number 200 has to be adjusted to different languages
-                        # the suggested number of BPE merges based on min redundancy is listed in num_bpe_merges.tsv
                         learn_line = 'subword-nmt learn-bpe -s 200 < ' + \
-                                     os.path.join(root, file) + ' > ' + file_codes
+                                     tokenized_file + ' > ' + file_codes
                         apply_line = 'subword-nmt apply-bpe -c ' + file_codes + \
-                                     ' < ' + os.path.join(root, file) + ' > ' + file_segm
+                                     ' < ' + tokenized_file + ' > ' + file_segm
                         print(learn_line)
                         print(apply_line)
                         f_learn_bpe.write(learn_line + '\n')
                         f_apply_bpe.write(apply_line + '\n')
-    
+
     # learn bpe 200 codes; this is recommended to be run separately in the terminal!
     call('../train/bpe-min-r/learn-bpe.sh', shell=True)
-    
+
     # apply bpe 200; this is recommended to be run separately in the terminal!
     call('../train/bpe-min-r/apply-bpe.sh', shell=True)
 
